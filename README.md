@@ -166,7 +166,15 @@ The ALAM and Selden, who had already collected several hundred thousand dollars 
 I will continue this later, but for now, I realize this is a multi-dimensional project, and I haven't really addressed the 3D printing aspect of the engines I've been interested in. Perhaps it might be simpler to purchase a motorcycle engine, assemble a car transmission that allows it to move in reverse. Some very technical videos have been made on this. One new one I just found but haven't finished watching is this:
 https://www.youtube.com/watch?v=IU98_D2sE1U 
 
-Apparently, its called a "Chain Drive Forward Reverse Gearbox": https://www.youtube.com/watch?v=9DZ1WlJ5Ox4 and there are several ways to do that:
+https://www.youtube.com/watch?v=UsbfzmPCYX4
+
+The Lotus Elan pioneered much of the lightweight, aerodynamic design. found from watching the third video in the sequence from the previous link. https://www.roadandtrack.com/car-culture/car-design/a19478707/the-rocket-is-gordon-murrays-pre-mclaren-masterpiece/
+
+https://www.youtube.com/watch?v=gw43m0TVsZE
+
+https://www.youtube.com/watch?v=gw43m0TVsZE 770Lbs https://www.motorauthority.com/news/1115866_jay-leno-revisits-gordon-murray-designed-light-car-rocket
+
+Apparently, the reverse is called a "Chain Drive Forward Reverse Gearbox": https://www.youtube.com/watch?v=9DZ1WlJ5Ox4 and there are several ways to do that:
 https://www.google.com/search?q=motorcyle+engine+attached+to+car+transmission+to+move+in+reverse&rlz=1C1CHBF_enUS924US924&oq=motorcyle+engine+attached+to+car+transmission+to+move+in+reverse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg5ODRqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
 
 Once I finish watching some of these videos, I'll return to listing what ideas I have and what I think might be a low cost option of building a 20-30HP car capable of reaching 55MPH and getting 84MPG, just like the Elio, but open sourced. As AT&T later closed source for [System III](https://en.wikipedia.org/wiki/UNIX_System_III) , [eventually](https://en.wikipedia.org/wiki/A_Commentary_on_the_UNIX_Operating_System) it led to, indirectly, to alternative operating systems, Linux being formed [separately](https://en.wikipedia.org/wiki/Minix#Samizdat_claims). The same could and should be said about [computer](https://fossi-foundation.org/) and [automotive](https://en.wikipedia.org/wiki/Open-source_car) hardware that's been aroud for decades and even centuries. It seems that unlike small appliances, cars are a much more sensitive status [symbol](https://nofilmschool.com/Cars-with-personality): https://www.fsu.edu/news/2008/11/26/car.personality/ which is why so many [TV commercials](https://getjerry.com/auto-news/many-car-commercials-super-bowl
