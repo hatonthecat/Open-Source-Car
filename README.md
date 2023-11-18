@@ -47,7 +47,7 @@ https://www.reddit.com/r/SuperCub/comments/tsmm14/how_does_the_cub_get_its_mpg/
 
 I own the 2019 Super Cub, the 2021 Trail 125 (CT125), and the 2022 Navi 110. My Super Cub averages 125-135 MPG in town when the speeds are below 50 MPH, and it will return 109-115 MPG all day long at highway speeds of 60-65 MPH. I averaged 109 MPG while traveling 9750+ miles around the USA last year on it while pulling a 100-lb trailer behind it. The highest numbers that I've been able to achieve with my Cub has been 156.7 US MPG, and that was under real-world city riding at 40-45 MPH average speeds."
 
-THey currently average around 114.9MPG: https://www.fuelly.com/motorcycle/honda/ca125a_super_cub/2019/quasimotard/903362  
+They currently average around 114.9MPG: https://www.fuelly.com/motorcycle/honda/ca125a_super_cub/2019/quasimotard/903362  
 
 ![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/ed52ed92-3415-478e-afb0-1bacc2905324)
 
@@ -135,7 +135,7 @@ Fuel consumption:          1.58 litres/100 km (63.7 km/l or 149.82 mpg)
 Greenhouse gases:         36.4 CO2 g/km. (CO2 – Carbon dioxide emission)" 
 
 
-8HP, however, is probably too weak for a three wheeled car. While it might be able to reach a top speed of 60MPH+ on 2 wheels, it will probably need at least 20HP to reach a top speed of 55mph, which I think would be acceptable for most small towns and country roads. This could minimize the losses in efficiency from a larger engine, while maintaining the simplicity of a small engine. Thus a 2 cylinder engine or an opposed single cylinder engine might have its own efficiencies, but I do not have any automotive simulation software nor know how to calculate the theoretical efficiency of various displacements. Would 125CC be enough? The newer Super Cubs use 125CC- I use this older photo because it was clear and easy to view. A 250CC motorcycle is typically the minimum to ride on the expressway. The Fiat 500 Twin Air 0.9 is 875cc: https://www.carscoops.com/2011/05/fiats-09-liter-twinair-scoops/ https://en.wikipedia.org/wiki/Fiat_500_(2007)#Engines 
+8HP, however, is probably too weak for a three wheeled car. While it might be able to reach a top speed of 60MPH+ on 2 wheels, it will probably need at least 20HP to reach a top speed of 55mph, which I think would be acceptable for most urban areas, small towns and country roads (excluding state routes and interstates where the speed limit is 65 or 70). This could minimize the losses in efficiency from a larger engine, while maintaining the simplicity of a small engine. Thus a 2 cylinder engine or an opposed single cylinder engine might have its own efficiencies, but I do not have any automotive simulation software nor know how to calculate the theoretical efficiency of various displacements. Would 125CC be enough? The newer Super Cubs use 125CC- I use this older photo because it was clear and easy to view. A 250CC motorcycle is typically the minimum to ride on the expressway. The Fiat 500 Twin Air 0.9 is 875cc: https://www.carscoops.com/2011/05/fiats-09-liter-twinair-scoops/ https://en.wikipedia.org/wiki/Fiat_500_(2007)#Engines 
 
 ![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/48f68a35-9649-4a3f-9669-390da2e89a57)
 
