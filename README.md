@@ -1,2 +1,168 @@
 # OpenSourceCar
 A directory of links and ideas on how to build an open source car.
+
+After watching some videos of 3D printed engines, I have been curious of potentially developing a 3D printed car. It's not the first time I've explored this topic, but starting a repository would be a more organized way to store my thoughts and links.
+
+Mechanics- engines, combustion, thermodynamics, to a person usually interested in computer and software, can appear quite mesmerizing. It certainly requires a different part of the brain to conceptualize, and exercising different parts of my brain is my way of keeping myself from becoming bored. 
+
+The following videos I watched today, and all no less than stellar:
+
+First, a conventional, but transparent V8 engine: 
+https://www.youtube.com/watch?v=TbhF7jTLlG4
+
+"I Tried 3D Printing a Gas-Powered Engine!"
+https://www.youtube.com/watch?v=jNVx6OBBx-k 
+
+I 3D Printed an Air-Powered Engine with Honda's VTEC
+https://www.youtube.com/watch?v=46jSDZTs8p4&t=1s
+
+Adding a Carburetor to my 3D Printed Gas Engine, and now it RUNS!
+https://www.youtube.com/watch?v=iO69UXBT5rE
+STL files: https://drive.google.com/drive/folders/1wnR04UQmxZq4GWXaFBBkNswchkaGefuF
+
+I Made a Variable Valve Timing Air Engine
+https://www.youtube.com/watch?v=8wzbuQT5O0M&t=18s
+
+Mechanical dexterity is not my forte, so watching some 3Dp printed parts operate have quite a bit more tolerance than I could design myself. I'm not great at all with 3D design programs, whether it is Blender, CAD or other software. That said, if someone could design a 3D printed engine, I could potentially download it and buy a 3D printer to produce and assemble all the parts. 
+
+The engines I've been interested in are the opposed piston
+
+https://www.aquariusengines.com/
+https://achatespower.com/
+
+and the inverse Wankel (rotary) engine:
+
+https://www.liquidpiston.com/
+https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/
+
+That is because these engines are potentially much simpler, and do not all (or any) require a crankshaft. While I've thought of electric motors, I've been exploring a basic commuter car that many could use, in places where electric charging is not feasible or simple.
+
+Of course, these are state of the art engines that haven't been sold to the market yet, and passenger vehicles for commuters, rather than pickup truck engines as in the opposed 3-cylinder (v6-like in terms of power) [Ford F150](https://news.yahoo.com/achates-engine-ford-f-150-pickup-targets-37-163000315.html)https://news.yahoo.com/achates-engine-ford-f-150-pickup-targets-37-163000315.html target a price tag above $36,000, sometimes $43,000 for the more advanced engines that offer 37mpg. Thus i would like to focus on an extremely efficient 1 or 2 cylinder engine (or single, opposed piston engine).
+
+I was piqued by this topic when I read about one of the most efficient engines, the Honda Super Cub, which is also historically, one of the best selling motorcycles since the 1950s:
+
+https://www.reddit.com/r/SuperCub/comments/tsmm14/how_does_the_cub_get_its_mpg/
+
+"The biggest factor to consider on those MPG claims is where the article is written... which country/market is claiming the specs. Most of the EU/UK literature claims higher numbers because UK gallons aren't the same as US gallons. The Cub's fuel tank holds the same amount of fuel regardless of locatino, but the measures and calculations are different. The new 2022 Cub is reportedly more fuel-efficient than the 2019-2021 models, but even the older ones were rated at 188 MPG (UK gallons).
+
+I own the 2019 Super Cub, the 2021 Trail 125 (CT125), and the 2022 Navi 110. My Super Cub averages 125-135 MPG in town when the speeds are below 50 MPH, and it will return 109-115 MPG all day long at highway speeds of 60-65 MPH. I averaged 109 MPG while traveling 9750+ miles around the USA last year on it while pulling a 100-lb trailer behind it. The highest numbers that I've been able to achieve with my Cub has been 156.7 US MPG, and that was under real-world city riding at 40-45 MPH average speeds."
+
+THey currently average around 114.9MPG: https://www.fuelly.com/motorcycle/honda/ca125a_super_cub/2019/quasimotard/903362  
+
+![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/ed52ed92-3415-478e-afb0-1bacc2905324)
+
+The aerodynamics of a scooter are certainly more favorable than a Prius, but the [abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)https://en.wikipedia.org/wiki/Abductive_reasoning exercise of this repository is how Elio Motors in 2008 reached the 84 mpg figure. That is, that number is approximately halfway between a Prius, which gets around 50-50MPG as a hybrid, and a SuperCub, which gets an average of 114MPG. A three wheeled vehicle is also halfway between a 2 wheeled one and a four wheeled one.
+
+Thus the main factors that contribute to the fuel economy are, size/weight, drag coefficient/wind resistance, and engine fuel efficiency. The Prius uses a [CVT](https://en.wikipedia.org/wiki/Continuously_variable_transmission#:~:text=A%20continuously%20variable%20transmission%20(CVT,gear%20ratios%20in%20fixed%20steps.)https://en.wikipedia.org/wiki/Continuously_variable_transmission#:~:text=A%20continuously%20variable%20transmission%20(CVT,gear%20ratios%20in%20fixed%20steps., as does the SuperCub. The SuperCub uses fuel injection, as does the Prius.
+
+I am also interested in developing a fuel efficient car that could cost $10,000 or less (perhaps less if parts are sourced,3D printed, and assembled by oneself).
+
+One of the benefits of a three-wheeled car over a 2 wheeled one is additional stability (the bike won't tip over). It would also allow commuters to drive to work without getting soaked in the rain like a biker would. It could also produce enough power (either via combustion or battery) to produce heat and AC. These are modern amenities. Once one starts to add built in navigation and infotainment software, then things get expensive, thus it might be a lot cheaper to include a built-in cell phone holder that clamps down a third party device instead of requiring a hard to manufacture/design touchscreen for a relatively low-tech car. Things like automatic emergency braking would imply several new requirements in new vehicles, thus this type of vehicle wouldn't be easy to sell in any number of quantities since it wouldn't be road legal. Some loopholes such as allowing a car to be sold unassembled (i.e. a kit car), or a trike, might allow for some exemptions. That said, other requirements, such as needing to wear a helmet for any two or three wheeled vehicle in certain states might need to be [amended](https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/)https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/.
+
+The reasoning is, cars like the Aptera and the Elio were designed to *be* the helmet, with 5-star crash test ratings. The early website promotional material for the Aptera suggested a cage-like strength capable of withstanding elephant like weights on top of it. But not everyone will feel as safe in a small car compared to a Hummer, and  this repository isn't here to justify the merits of why everyone should own an SUV, because then everyone would feel less safe some might opt for a [cement truck](https://www.youtube.com/watch?v=3MqDYI2Oq2A)https://www.youtube.com/watch?v=3MqDYI2Oq2A or even an [MRAP](https://en.wikipedia.org/wiki/MRAP)https://en.wikipedia.org/wiki/MRAP. One way to reduce collisions is to have more safe drivers. 
+
+Having spent years on the internet, eventually one will encounter some relatively scientific, or statistical terms such as the micromort: https://en.wikipedia.org/wiki/Micromort
+
+"A micromort (from micro- and mortality) is a unit of risk defined as a one-in-a-million chance of death.[1][2] Micromorts can be used to measure the riskiness of various day-to-day activities. A microprobability is a one-in-a million chance of some event; thus, a micromort is the microprobability of death. The micromort concept was introduced by Ronald A. Howard who pioneered the modern practice of decision analysis.[3]"
+
+Travel
+Activities that increase the death risk by roughly one micromort, and their associated cause of death:
+
+Travelling 6 miles (9.7 km) by motorcycle (collision)[23][verification needed]
+Travelling 17 miles (27 km) by walking (collision)[24]
+Travelling 10 miles (16 km)[25] or 20 miles (32 km)[24] by bicycle (collision)[a]
+Travelling 230 miles (370 km) by car (collision)[23][verification needed] (or 250 miles)[24]
+Travelling 1,000 miles (1,600 km) by jet (collision)[25]
+Travelling 6,000 miles (9,656 km) by train (collision)[23]
+
+Thus, driving a car is six times less likely to involve a fatal accident, or, by some estimates, [four times](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car.)https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car. less likely.
+
+I am interested in low-risk, high impact research. Though, sometimes any kind of research can appear expensive- while I am ok with doing my own unpaid, independent research, it can't be sustainable if I did it indefinitely. Eventually, I would run out of money. But that's a topic for another day, if that day ever arrives. Researching the facts shows, that mainstream TV have covered a story in August 2023, just three months ago, that only one new car in the United States sells for under $20,000: https://www.cbsnews.com/news/mitsubishi-mirage-cheapest-new-car-2023-below-20000/
+
+Reading this, obviously is encouraging to "rando" hobbyists like me, who for years knew how [expensive](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment) everything has become. In my humble opinion, a minimum wage should be a high enough wage to allow someone working full time to pay off a car in 3 years, and a condo or small house in 15 years. But since our system isn't designed that way, the only other options to create lower prices is to design more efficient vehicles and lower the [cost of](https://www.boxabl.com/) construction, some of which includes lowering the cost of [new housing](https://www.youtube.com/watch?v=Pf8ZFtnQxPk), and restoring antiquated [zoning laws (or lack thereof](https://www.latimes.com/opinion/story/2023-01-20/sb9-single-family-zoning-reform-takes-time)https://www.latimes.com/opinion/story/2023-01-20/sb9-single-family-zoning-reform-takes-time that existed before the early 1900s.
+
+While the regulations that led to safer homes, such as building codes were and still are certainly important, the reality for the majority of Americans is that owning a new home is nearly impossible, with interest rates and inflation making rent the only option, something that eats into savings which could go towards a college fund or future medical care. 
+
+And while I would like to explore that more, I have another [repository](https://github.com/hatonthecat/Post-scarcity/blob/main/README.md) and [essay](https://github.com/hatonthecat/Biology/blob/main/I%20wrote%20t o%20Freeman%20Dyson%2015%20years%20ago%3B%20he%20responded%20nicely.pdf) for that.
+
+In short, I'd like to put a small engine like [this](https://ct110-postie.com/shop/categories/rebuilt-motor-nbc110/)
+
+![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/28ff38bf-42f3-464e-a624-6144f4c3b446)
+
+into this:
+
+![OEM01_170819875_AR_0_MFWUKZXSCMWQ](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/cbf8c58e-9610-4a9f-ab7b-d2ac98e1499f)
+
+"General Information
+
+Model: Honda Super Cub 110 / NBC110BN
+
+Engine and transmission
+
+Displacement:   109.00 ccm (6.65 cubic inches)
+
+Engine type:       Single cylinder, four-stroke
+
+Power: 8.00 HP (5.8 kW)) @ 7500 RPM
+
+Torque:                8.50 Nm (0.9 kgf-m or 6.3 ft.lbs) @ 5500 RPM
+
+Compression:    9.0:1
+
+Bore x stroke:    50.0 x 55.6 mm (2.0 x 2.2 inches)
+
+Fuel system:      Injection. PGM-FI
+
+Fuel control:       Overhead Cams (OHC)
+
+Cooling system:   Air
+
+Gearbox:             4-speed
+
+Transmission type
+
+Final Drive:           Enclosed Chain
+
+Fuel consumption:          1.58 litres/100 km (63.7 km/l or 149.82 mpg)
+
+Greenhouse gases:         36.4 CO2 g/km. (CO2 – Carbon dioxide emission)" 
+
+
+8HP, however, is probably too weak for a three wheeled car. While it might be able to reach a top speed of 60MPH+ on 2 wheels, it will probably need at least 20HP to reach a top speed of 55mph, which I think would be acceptable for most small towns and country roads. This could minimize the losses in efficiency from a larger engine, while maintaining the simplicity of a small engine. Thus a 2 cylinder engine or an opposed single cylinder engine might have its own efficiencies, but I do not have any automotive simulation software nor know how to calculate the theoretical efficiency of various displacements. Would 125CC be enough? The newer Super Cubs use 125CC- I use this older photo because it was clear and easy to view. A 250CC motorcycle is typically the minimum to ride on the expressway. The Fiat 500 Twin Air 0.9 is 875cc: https://www.carscoops.com/2011/05/fiats-09-liter-twinair-scoops/ https://en.wikipedia.org/wiki/Fiat_500_(2007)#Engines 
+
+![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/48f68a35-9649-4a3f-9669-390da2e89a57)
+
+Thus, making a rough estimate, a 30 horsepower engine could probably reach a top speed of 50 miles an hour, probably more  for a three wheeler and more aerodynamic car, than a 4 wheeler.
+
+I recall reading that The Elio tested some of their prototypes with an older 3 [cylinder engine](https://en.wikipedia.org/wiki/Geo_Metro)https://en.wikipedia.org/wiki/Geo_Metro, which also used a 1.0 Liter like the Fiat 500 Twin Air. "Unlike that, The three-cylinder, 1.0-liter throttle body injected engine, still used on base models, was available for non-LSi models in 1997. The 1.0-liter became the last engine on a vehicle available in the US to use TBI." I am curious if the patents on any of these engines expired in such a way that might allow them to be manufactured and still meet emissions guidelines with more advanced transmissions... https://en.wikipedia.org/wiki/Suzuki_Cultus 
+
+After googling the answer, minutes later, I've found the answer to one of the first engine patents:
+
+https://www.farmanddairy.com/columns/the-selden-patent-and-its-role-in-auto-history/328352.html
+
+"Henry Ford
+By 1903, Henry Ford was ready to begin making a low-cost car and applied to the ALAM for a license, which was rejected. Apparently ALAM members, who were selling expensive cars, feared Ford’s low-cost offerings and told Ford he could have the license if he limited his production to 10,000 cars per year and sold them for at least $1,000 each.
+
+Jim Couzens, Ford’s right hand man, told them to go to hell, and he and Henry walked out.
+Ford continued to build cars and Selden and EVC sued. The trial dragged on for nearly six years while Ford was cranking out cars by the tens of thousands and getting richer all the time.
+
+In fact, someone calculated that if he had paid the Selden royalty it would have cost him $12.50 per car, but the cost of the litigation was only $6.80. When the judge finally ruled in 1909, it was against defendants Ford and the French auto firm of Panhard et Levassor, who were selling cars in the U.S.
+
+The defendants promptly appealed, and during the appeal hearing one of the Panhard lawyers managed to debunk the testimony of one of the ALAM’s “expert witnesses.”
+
+Early in 1911 the appeals court rendered their Solomon-like decision. They said that while Selden’s patent was valid — for a car with a Brayton type engine — there was no infringement by Ford and the others because their cars used Otto type engines and were vastly different than the single Selden that had been built.
+
+The court even added, “The defendants, neither legally nor morally owe him (Selden) anything.”
+
+The ALAM and Selden, who had already collected several hundred thousand dollars in royalties, although much of it was spent on legal fees, decided not to appeal the new verdict as the patent would expire in less than two years."
+
+I will continue this later, but for now, I realize this is a multi-dimensional project, and I haven't really addressed the 3D printing aspect of the engines I've been interested in. Perhaps it might be simpler to purchase a motorcycle engine, assemble a car transmission that allows it to move in reverse. Some very technical videos have been made on this. One new one I just found but haven't finished watching is this:
+https://www.youtube.com/watch?v=IU98_D2sE1U 
+
+Apparently, its called a "Chain Drive Forward Reverse Gearbox": https://www.youtube.com/watch?v=9DZ1WlJ5Ox4 and there are several ways to do that:
+https://www.google.com/search?q=motorcyle+engine+attached+to+car+transmission+to+move+in+reverse&rlz=1C1CHBF_enUS924US924&oq=motorcyle+engine+attached+to+car+transmission+to+move+in+reverse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg5ODRqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Once I finish watching some of these videos, I'll return to listing what ideas I have and what I think might be a low cost option of building a 20-30HP car capable of reaching 55MPH and getting 84MPG, just like the Elio, but open sourced. As AT&T later closed source for [System III](https://en.wikipedia.org/wiki/UNIX_System_III) , [eventually](https://en.wikipedia.org/wiki/A_Commentary_on_the_UNIX_Operating_System) it led to, indirectly, to alternative operating systems, Linux being formed [separately](https://en.wikipedia.org/wiki/Minix#Samizdat_claims). The same could and should be said about [computer](https://fossi-foundation.org/) and [automotive](https://en.wikipedia.org/wiki/Open-source_car) hardware that's been aroud for decades and even centuries. It seems that unlike small appliances, cars are a much more sensitive status [symbol](https://nofilmschool.com/Cars-with-personality): https://www.fsu.edu/news/2008/11/26/car.personality/ which is why so many [TV commercials](https://getjerry.com/auto-news/many-car-commercials-super-bowl
+) revolve around cars.
+
+Never Just A Car https://www.youtube.com/watch?v=ayJ3ktqJ4L0
