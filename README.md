@@ -168,7 +168,13 @@ https://www.youtube.com/watch?v=IU98_D2sE1U
 
 https://www.youtube.com/watch?v=UsbfzmPCYX4
 
-The Lotus Elan pioneered much of the lightweight, aerodynamic design. found from watching the third video in the sequence from the previous link. https://www.roadandtrack.com/car-culture/car-design/a19478707/the-rocket-is-gordon-murrays-pre-mclaren-masterpiece/
+The Lotus Elan pioneered much of the lightweight, aerodynamic design. found from watching the third video in the sequence from the previous link. 
+
+![image](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/8d06377b-7b32-4283-8cf6-ec5d89ef8033)
+1991 Light Car Company Rocket 
+
+Source:
+https://www.roadandtrack.com/car-culture/car-design/a19478707/the-rocket-is-gordon-murrays-pre-mclaren-masterpiece/
 
 https://www.youtube.com/watch?v=gw43m0TVsZE
 
