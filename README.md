@@ -57,7 +57,7 @@ Thus the main factors that contribute to the fuel economy are, size/weight, drag
 
 I am also interested in developing a fuel efficient car that could cost $10,000 or less (perhaps less if parts are sourced,3D printed, and assembled by oneself).
 
-One of the benefits of a three-wheeled car over a 2 wheeled one is additional stability (the bike won't tip over). It would also allow commuters to drive to work without getting soaked in the rain like a biker would. It could also produce enough power (either via combustion or battery) to produce heat and AC. These are modern amenities. Once one starts to add built in navigation and infotainment software, then things get expensive, thus it might be a lot cheaper to include a built-in cell phone holder that clamps down a third party device instead of requiring a hard to manufacture/design touchscreen for a relatively low-tech car. Things like automatic emergency braking would imply several new requirements in new vehicles, thus this type of vehicle wouldn't be easy to sell in any number of quantities since it wouldn't be road legal. Some loopholes such as allowing a car to be sold unassembled (i.e. a kit car), or a trike, might allow for some exemptions. That said, other requirements, such as needing to wear a helmet for any two or three wheeled vehicle in certain states might need to be [amended](https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/)https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/.
+One of the benefits of a three-wheeled car over a 2 wheeled one is additional stability (the bike won't tip over). It would also allow commuters to drive to work without getting soaked in the rain like a biker would. It could also produce enough power (either via combustion or battery) to produce heat and AC. These are modern amenities. Once one starts to add built in navigation and infotainment software, then things get expensive, thus it might be a lot cheaper to include a built-in cell phone holder that clamps down a third party device instead of requiring a hard to manufacture/design touchscreen for a relatively low-tech car. Things like automatic emergency braking would imply several new requirements in new vehicles, thus this type of vehicle wouldn't be easy to sell in any number of quantities since it wouldn't be road legal. Some loopholes such as allowing a car to be sold unassembled (i.e. a [kit car](https://en.wikipedia.org/wiki/Kit_car)), or a trike, might allow for some exemptions. That said, other requirements, such as needing to wear a helmet for any two or three wheeled vehicle in certain states might need to be [amended](https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/)https://www.fox8live.com/story/21995444/no-helmets-required-for-elio-vehicle-under-bill/.
 
 The reasoning is, cars like the Aptera and the Elio were designed to *be* the helmet, with 5-star crash test ratings. The early website promotional material for the Aptera suggested a cage-like strength capable of withstanding elephant like weights on top of it. But not everyone will feel as safe in a small car compared to a Hummer, and  this repository isn't here to justify the merits of why everyone should own an SUV, because then everyone would feel less safe some might opt for a [cement truck](https://www.youtube.com/watch?v=3MqDYI2Oq2A)https://www.youtube.com/watch?v=3MqDYI2Oq2A or even an [MRAP](https://en.wikipedia.org/wiki/MRAP)https://en.wikipedia.org/wiki/MRAP. One way to reduce collisions is to have more safe drivers. 
 
@@ -66,13 +66,19 @@ Having spent years on the internet, eventually one will encounter some relativel
 "A micromort (from micro- and mortality) is a unit of risk defined as a one-in-a-million chance of death.[1][2] Micromorts can be used to measure the riskiness of various day-to-day activities. A microprobability is a one-in-a million chance of some event; thus, a micromort is the microprobability of death. The micromort concept was introduced by Ronald A. Howard who pioneered the modern practice of decision analysis.[3]"
 
 Travel
+
 Activities that increase the death risk by roughly one micromort, and their associated cause of death:
 
 Travelling 6 miles (9.7 km) by motorcycle (collision)[23][verification needed]
+
 Travelling 17 miles (27 km) by walking (collision)[24]
+
 Travelling 10 miles (16 km)[25] or 20 miles (32 km)[24] by bicycle (collision)[a]
+
 Travelling 230 miles (370 km) by car (collision)[23][verification needed] (or 250 miles)[24]
+
 Travelling 1,000 miles (1,600 km) by jet (collision)[25]
+
 Travelling 6,000 miles (9,656 km) by train (collision)[23]
 
 Thus, driving a car is six times less likely to involve a fatal accident, or, by some estimates, [four times](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car.)https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car. less likely.
