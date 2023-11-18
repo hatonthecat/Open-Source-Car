@@ -81,7 +81,7 @@ Travelling 1,000 miles (1,600 km) by jet (collision)[25]
 
 Travelling 6,000 miles (9,656 km) by train (collision)[23]
 
-Thus, driving a car is six times less likely to involve a fatal accident, or, by some estimates, [four times](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car.)https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car. less likely.
+Thus, driving a car is 38 times less likely to involve a fatal accident, or, by some estimates, [four times](https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car.)https://krystof.litomisky.com/2023/02/20/life-death-and-motorcycles/#:~:text=Traveling%206%20miles%20by%20motorcycle,dangerous%20than%20driving%20a%20car. less likely.
 
 I am interested in low-risk, high impact research. Though, sometimes any kind of research can appear expensive- while I am ok with doing my own unpaid, independent research, it can't be sustainable if I did it indefinitely. Eventually, I would run out of money. But that's a topic for another day, if that day ever arrives. Researching the facts shows, that mainstream TV have covered a story in August 2023, just three months ago, that only one new car in the United States sells for under $20,000: https://www.cbsnews.com/news/mitsubishi-mirage-cheapest-new-car-2023-below-20000/
 
