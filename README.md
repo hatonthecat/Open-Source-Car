@@ -189,3 +189,36 @@ Once I finish watching some of these videos, I'll return to listing what ideas I
 ) revolve around cars.
 
 Never Just A Car https://www.youtube.com/watch?v=ayJ3ktqJ4L0
+
+---
+Solar Powered Car/Electric
+---
+11-19-2023
+
+These turned out to be quite conventional sports cars with minimal solar panel coverage since the horsepower/weight of the car would not be enough to charge more than a few miles per day:
+
+https://www.bing.com/images/create/solar-powered-car/1-655a8612562c4f97930093a825afff1f?id=pvwffe8D60V7hCE9vqWCmQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay
+
+![_5b4cb4ad-6da9-488b-90a4-30d6984b4479](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/cda97132-ede9-4b58-a355-93f41203e6d9)
+
+However, an interesting spoiler used a solar panel, which I was impressed (ignoring the unoptimized wind resistance)
+![_f77fb792-d836-4e18-8835-290ce2db65d6](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/fe0aeba8-7dd3-40f2-a0e7-efc9ee664a7c)
+
+![_c6bfb39d-ce7b-4955-9914-79c6b4b34c45](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/90a03b03-ff8e-4ad0-9290-73d9a285c3b9)
+
+![_ef0c9129-b306-4e52-84c7-4b731ad7341d](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/98114e69-c9d1-44b2-9add-4b41994f0a23
+
+
+This turned out a bit botched for a couple of the generations, with many electronics exposed, boxy, and Lego-like.
+
+![_26ab3af8-7a12-452b-b12d-0e238864902d](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/77a305e5-f08b-4879-9153-c47d71b254e5)
+
+![_b4632824-0a18-4e81-8955-86f188f11195](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/8c6570c8-df0b-4a9a-aca3-66fdfff0c821)
+
+https://www.bing.com/images/create/solar-powered-formula-1-car/1-655a8744dfe24d6c8938d912dbdd9824?id=tI0t7g%2BnFtb3S8veZwzPPA%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0
+
+Two, though turned out quite well (except a little too low for the street height):
+
+![_644e84c3-2bf5-49df-a8ef-5fe04bf53bf4](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/34da0ca0-198a-4012-81b6-f9cb45ab44d5)
+
+![_5891c50d-8aeb-4b7a-9f57-8dcc52f60a41](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/6dee8cd7-c041-4ebb-9987-07d6e8335e7f)
