@@ -10,6 +10,8 @@ The following videos I watched today, and all no less than stellar:
 First, a conventional, but transparent V8 engine: 
 https://www.youtube.com/watch?v=TbhF7jTLlG4
 
+Second, a completely hilarious blast from 1980s Japan https://www.youtube.com/watch?v=bL_T4Lr0uu8
+
 "I Tried 3D Printing a Gas-Powered Engine!"
 https://www.youtube.com/watch?v=jNVx6OBBx-k 
 
