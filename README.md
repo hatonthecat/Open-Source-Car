@@ -195,7 +195,7 @@ Solar Powered Car/Electric
 ---
 11-19-2023
 
-These turned out to be quite conventional sports cars with minimal solar panel coverage since the horsepower/weight of the car would not be enough to charge more than a few miles per day:
+These turned out to be quite conventional sports cars with minimal solar panel coverage since the horsepower/weight of the car would not allow the solar to charge enough to charge enough power than a few miles per day:
 
 https://www.bing.com/images/create/solar-powered-car/1-655a8612562c4f97930093a825afff1f?id=pvwffe8D60V7hCE9vqWCmQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay
 
