@@ -38,6 +38,7 @@ https://www.liquidpiston.com/
 https://arstechnica.com/cars/2023/11/this-inside-out-design-solves-most-of-the-rotary-engines-problems/
 https://www.enginebuildermag.com/2024/03/a-new-take-on-the-rotary-engine/
 ![image](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/31459718-430e-48a1-9fe6-90062c76376e)
+
 Figure 4: LiquidPiston’s 25 hp XTS-210 (on left) compared to Kohler’s 25 hp KDW1003 (on right)
 
 
