@@ -226,6 +226,11 @@ This turned out a bit botched for a couple of the generations, with many electro
 
 https://www.bing.com/images/create/solar-powered-formula-1-car/1-655a8744dfe24d6c8938d912dbdd9824?id=tI0t7g%2BnFtb3S8veZwzPPA%3D%3D&view=detailv2&idpp=genimg&form=GCRIDP&ajaxhist=0&ajaxserp=0
 
+4/9/2024
+--
+
+Ford's  electric car competition https://www.motortrend.com/news/secret-affordable-ford-evs-coming-to-take-on-tesla-and-china/
+
 Two, though turned out quite well (except a little too low for the street height):
 
 ![_644e84c3-2bf5-49df-a8ef-5fe04bf53bf4](https://github.com/hatonthecat/Open-Source-Car/assets/76194453/34da0ca0-198a-4012-81b6-f9cb45ab44d5)
