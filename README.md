@@ -28,7 +28,14 @@ https://www.youtube.com/watch?v=8wzbuQT5O0M&t=18s
 Newer video shows the logical deduction to metal 3D printing since plastic tolerances for engines are impractically low using hobbyist equipment:
 https://www.youtube.com/watch?v=LJN1vbyNyTY
 
+"3D Printers Metal Additive" Search query:
 
+https://markforged.com/3d-printers/metal-x
+
+https://nexa3d.com/blog/best-metal-3d-printers
+
+Engines
+---
 
 Mechanical dexterity is not my forte, so watching some 3Dp printed parts operate have quite a bit more tolerance than I could design myself. I'm not great at all with 3D design programs, whether it is Blender, CAD or other software. That said, if someone could design a 3D printed engine, I could potentially download it and buy a 3D printer to produce and assemble all the parts. 
 
