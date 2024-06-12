@@ -56,6 +56,8 @@ Figure 4: LiquidPiston’s 25 hp XTS-210 (on left) compared to Kohler’s 25 hp 
 
 That is because these engines are potentially much simpler, and do not all (or any) require a crankshaft. While I've thought of [electric](https://www.youtube.com/watch?v=LYQ2PiX_Z9o) motors, I've been exploring a basic commuter car that many could use, in places where electric charging is not feasible or simple.
 
+https://www.eenewseurope.com/en/qorvo-set-to-go-head-to-head-with-ti-on-gan-ipm-power-modules could this power a golf cart? 2kW is a very light golf cart.
+
 Of course, these are state of the art engines that haven't been sold to the market yet, and passenger vehicles for commuters, rather than pickup truck engines as in the opposed 3-cylinder (v6-like in terms of power) [Ford F150](https://news.yahoo.com/achates-engine-ford-f-150-pickup-targets-37-163000315.html)https://news.yahoo.com/achates-engine-ford-f-150-pickup-targets-37-163000315.html target a price tag above $36,000, sometimes $43,000 for the more advanced engines that offer 37mpg. Thus i would like to focus on an extremely efficient 1 or 2 cylinder engine (or single, opposed piston engine).
 
 I was piqued by this topic when I read about one of the most efficient engines, the Honda Super Cub, which is also historically, one of the best selling motorcycles since the 1950s:
