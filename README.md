@@ -44,6 +44,8 @@ The engines I've been interested in are the opposed piston
 https://www.aquariusengines.com/
 https://achatespower.com/
 
+https://en.wikipedia.org/wiki/EcoMotors (a company that went defunct in 2017, but had some famous backers)
+
 and the inverse Wankel (rotary) engine:
 
 https://www.liquidpiston.com/
