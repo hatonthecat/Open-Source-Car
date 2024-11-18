@@ -174,6 +174,10 @@ After googling the answer, minutes later, I've found the answer to one of the fi
 
 https://www.farmanddairy.com/columns/the-selden-patent-and-its-role-in-auto-history/328352.html
 
+https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113
+
+
+
 "Henry Ford
 By 1903, Henry Ford was ready to begin making a low-cost car and applied to the ALAM for a license, which was rejected. Apparently ALAM members, who were selling expensive cars, feared Ford’s low-cost offerings and told Ford he could have the license if he limited his production to 10,000 cars per year and sold them for at least $1,000 each.
 
@@ -194,6 +198,9 @@ I will continue this later, but for now, I realize this is a multi-dimensional p
 https://www.youtube.com/watch?v=IU98_D2sE1U 
 
 https://www.youtube.com/watch?v=UsbfzmPCYX4
+
+
+
 
 The Lotus Elan pioneered much of the lightweight, aerodynamic design. found from watching the third video in the sequence from the previous link. 
 
