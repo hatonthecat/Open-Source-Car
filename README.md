@@ -1,5 +1,5 @@
 # OpenSourceCar
-A directory of links and ideas on how to build an open source car.
+A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
 Most new car companies are using the luxury car model to support revenue. I am thinking the opposite. The opposite can work if designs are open sourced, and a number of car part manufacturers each obtain a stake in the company.
 
