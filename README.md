@@ -1,9 +1,82 @@
 # OpenSourceCar
 A directory of links and ideas on how to build an open source car.
 
+Most new car companies are using the luxury car model to support revenue. I am thinking the opposite. The opposite can work if designs are open sourced, and a number of car part manufacturers each obtain a stake in the company.
+
+https://www.carscoops.com/2024/11/lucid-ceo-open-to-license-their-tech-but-says-the-market-sucks-for-cheap-evs/
+
+https://www.youtube.com/watch?v=Jgw-_hlFQk4#:~:text=Elon%20Musk%20Five%20Step%20Improvement,and%20video%20from%20Everyday%20Astronaut.
+
+https://icecreates.com/insight/musk-s-5-steps-to-cut-internal-bureaucracy-at-tesla-and-spacex-you-may-say-it-s-his-algorithm/
+
+according to the 5 steps:
+
+
+"1. Question every requirement
+
+Before changing anything in your processes, the first step of Musk's algorithm is to create clarity about every requirement that exists today.  
+
+That clarity can be made by attaching a person—and a name—to every requirement. That is, each requirement should come with the name of the person who made that requirement.  
+
+Musk says; "You should never accept that a requirement came from a department, such as from 'the legal department' or 'the safety department.' You need to know the name of the real person who made that requirement." 
+
+Once that clarity is achieved—that is, when every requirement has the person's name attached—then you can start questioning whether these requirements make sense. No matter how smart or how 'powerful' that person is.  
+
+Musk: "Requirements from smart people are the most dangerous because people are less likely to question them. Always do so, even if the requirement came from me. Then make the requirements less dumb." 
+
+Musk’s first step of his algorithm reminds me of the ICE “ABC” tool; A - Assume nothing, turn over all the stones and interrogate the detail. B - Be curious, ask yourself what it is I don’t understand here? and C - Confirm the important, what are we trying to deliver or achieve and what don’t we want.  
+
+ 
+
+2. Delete any part of the process you can
+
+The second step of Musk's algorithm is all about subtraction—a widely undervalued habit in management. In this case, it is all about deleting any part of the process you can.  
+
+In fact, it is all about deleting just a bit more than you feel comfortable with. 
+
+Musk: "You may have to add [parts or processes] back later. In fact, if you do not end up adding back at least 10% of them, then you didn't delete enough." 
+
+So often in client design work they find it so easy to add to a process or design and not to reduce or take away and simplify. This is a heuristic that is hard wired, people value losing things twice as much as adding or gaining, so when you think let’s get rid of this bit or the design or process, you have to work twice as hard to justify and commit to it, but it must be done.   
+
+ 
+
+Step one and two are  the whole end to end process, then go to step 3. 
+
+ 
+
+3. Simplify and optimize
+
+Only when you have walked through steps one and two can you start by simplifying and optimising (parts of) your processes.  
+
+The algorithm and the order of steps protects you from doing unnecessary work—it keeps you from improving (parts of processes) that you do not need in the end.  
+
+Musk: "A common mistake is to simplify and optimize a part or a process that should not exist." 
+
+ 
+
+4. Accelerate cycle time
+
+The fourth step of Musk's algorithm is all about speed. It is about finding ways to speed up your bureaucratic processes. In our work with culture and performance, especially in the NHS, bureaucracy is cited as one of the biggest energy suckers for people and teams. If total energy available is 100% then this is often at 30-35% of total energy used, how much loss is that? This energy could be used for productive work! 
+
+"Every process can be speeded up," says Musk. "But only do this after you have followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted." 
+
+ 
+
+5. Automate
+
+The fifth and last step of Musk's algorithm involves automation. Now that you have clarity about your processes and have deleted any unnecessary parts to speed up your bureaucratic processes, the final step is to look for what you can potentially automate.  
+
+Musk: "[Automate] comes last. The big mistake in [my factories] was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out." 
+
+Automation can be both decision making and mechanical and digital automation. In our current work to scale digital neighbourhoods across the Southwest of England, automation will be both about identifying people at risk, and supporting their decision-making, we have already identified where lack of clarity is on this. My decision will have a huge impact and can be automated. As for the AI tool that will help identify people who, with a different and earlier intervention, will lead more healthy and independent lives and the automation is remarkable.  
+
+https://www.reddit.com/r/cars/comments/18a8qwy/how_much_does_it_cost_to_start_your_own_car/?rdt=44018
+
 After watching some videos of 3D printed engines, I have been curious of potentially developing a 3D printed car. It's not the first time I've explored this topic, but starting a repository would be a more organized way to store my thoughts and links.
 
-Mechanics- engines, combustion, thermodynamics, to a person usually interested in computer and software, can appear quite mesmerizing. It certainly requires a different part of the brain to conceptualize, and exercising different parts of my brain is my way of keeping myself from becoming bored. 
+Mechanics- engines, combustion, thermodynamics, to a person usually interested in computer and software, can appear quite mesmerizing. It certainly requires a different part of the brain to conceptualize, and exercising different parts of my brain is my way of keeping myself from becoming bored. "
+
+Create the Linux of Teslas
 
 The following videos I watched today, and all no less than stellar:
 
