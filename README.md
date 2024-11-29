@@ -491,9 +491,9 @@ Each one of these vehicles spoke volumes about the people that put them together
 CAR AND DRIVER AND THE MANUFACTURER
 1948–1949 Fiat Topolino 500 B
 
-The common market, low-cost jet travel, Telstar, engineering by committee, and hundreds of other landmarks on the path of progress have put an end to the small "foreign" car. It has been replaced by computer-confected automobiles intended to serve faithfully the largest number of buyers—if not drivers—without a thought given to national temperament. Yes, the new cars last longer. Yes, they have better performance. Yes, they are better value for money. What they lack, in most cases, is soul.
+The common market, low-cost jet travel, Telstar, engineering by committee, and hundreds of other landmarks on the path of progress have put an end to the small "foreign" car. It has been replaced by computer-confected automobiles intended to serve faithfully the largest number of buyers—if not drivers—without a thought given to national temperament. Yes, the new cars last longer. Yes, they have better performance. Yes, they are better value for money. **What they lack, in most cases, is soul**.
 
-The last of these supranationalistic cars was the front-engined Fiat 500. Introduced in 1936, it remained in production until 1955—not quite a record for one-design longevity. In all over half a million A, B and C models were built before the production lines were cleared to make way for the present rear-engined 500-D model.
+The last of these supranationalistic cars was the front-engined Fiat 500. Introduced in 1936, it remained in production until 1955—not quite a record for one-design longevity. In all over half a million A, B and C models were built before the production lines were cleared to make way for the present rear-engined 500-D model."
 
 $5,616.80 in Oct. 2024 equals $500 of buying power in 1957 (Average).
 https://www.calculator.net/inflation-calculator.html?cstartingamount1=500&cinmonth1=13&cinyear1=1957&coutmonth1=10&coutyear1=2024&calctype=1&x=Calculate#uscpi
