@@ -466,11 +466,41 @@ I'm interested in a an EV that maximizes range on a 10kWh battery using optimize
 While I don't often make a huge stink about the shape of cars, especially since many generations had similar competing shapes, the fact that there aren't any sub $20,000 cars, and that car websites are recommending a jelly-bean shaped car instead of a sedan, which has been disappearing for decades from the U.S. market, and the fact that Stellantis's [Fiat 500e](https://www.fiatcanada.com/en/500e/features-design) costs over [$38,000](https://www.caranddriver.com/fiat/500e) without tax credit eligibility, and the fact that they have [halted production](https://www.electrive.com/2024/11/29/stellantis-again-halts-production-of-the-fiat-500e/) due to lack of demand (due to pricing the car too high, which is their fault, and expecting their customers to have the wealth of an Italian prince)
 
 ![Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland](https://github.com/user-attachments/assets/22e9a9c0-201f-419a-b938-9386335ee3a5)
-Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland
 
+Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland ([Fiat 500](https://en.wikipedia.org/wiki/Fiat_500))
 
 ![image](https://github.com/user-attachments/assets/ecd8ba2e-eaa6-4c62-9cb9-4b98667457ff)
 How times have changed (The Colloseum hasn't)
+
+"The debut of this, the first modern mini car, generated a lot of interest in its native country. Billed as "A miniature big car" (there'll always be an ad man—even in Italy during the '30s) it represented quite a value. For $500 a fortunate Italian owner got four-wheel hydraulic brakes, four-speed synchromesh gearbox, independent front suspension, hydraulic shock absorbers, electric windshield wipers, interior light, adjustable bucket seats, sun visors, safety glass all around, sunshine roof, instruments (including oil pressure gauge!) and the unalloyed envy of all his neighbors. Some of these features have only come into use on low-cost American cars since World War II.
+
+The factory claimed 53 mph and 47 mpg for its new baby. In an "Autocar" road test of the period both figures were exceeded. The testers said that the car's free-revving engine and smooth shape put 60 and over on the clock whenever road conditions were the least bit favorable."
+
+from: https://www.caranddriver.com/features/a15141680/fiat-topolino-the-original-500-archived-feature/
+
+"From the March 1964 Issue of Car and Driver
+
+Not long ago different countries made different cars. This simple automotive fact is best demonstrated in the inexpensive vehicles built to put wheels under the masses. In the United States there was the Model T. Big, uncomplicated and cheap. More like roadable tractors than proper cars. They somehow mirrored the American spirit with their Puritan appearance and blacksmith approach to engineering problems. England had its Austin 7. Small, with quick steering to make it useful on twisting English roads. They were scaled down versions of contemporary big cars—it wouldn't do to have some clot of a pedestrian think that a proud owner was in command of a toy or a gadget. It spoke volumes about the very nature of the English character—both pro and con."
+
+You could also include the early Volkswagen in this group. It was rational to the point of uglification. There was not an unnecessary line or part. To this day no one has dared call it a "fun car"—including Madison Avenue's high priests of the researched phrase.
+
+Each one of these vehicles spoke volumes about the people that put them together and ministered to their ills. And about the owners who learned to live with their little grace notes of individuality.
+
+![image](https://github.com/user-attachments/assets/defa35d4-c7c0-4bc7-b5b2-65b5bc33f40b)
+
+CAR AND DRIVER AND THE MANUFACTURER
+1948–1949 Fiat Topolino 500 B
+
+The common market, low-cost jet travel, Telstar, engineering by committee, and hundreds of other landmarks on the path of progress have put an end to the small "foreign" car. It has been replaced by computer-confected automobiles intended to serve faithfully the largest number of buyers—if not drivers—without a thought given to national temperament. Yes, the new cars last longer. Yes, they have better performance. Yes, they are better value for money. What they lack, in most cases, is soul.
+
+The last of these supranationalistic cars was the front-engined Fiat 500. Introduced in 1936, it remained in production until 1955—not quite a record for one-design longevity. In all over half a million A, B and C models were built before the production lines were cleared to make way for the present rear-engined 500-D model.
+
+$5,616.80 in Oct. 2024 equals $500 of buying power in 1957 (Average).
+https://www.calculator.net/inflation-calculator.html?cstartingamount1=500&cinmonth1=13&cinyear1=1957&coutmonth1=10&coutyear1=2024&calctype=1&x=Calculate#uscpi
+
+![image](https://github.com/user-attachments/assets/63e49f15-818d-4280-9c19-fbc93cab4b88)
+1960-62 [Mitsubishi 500](https://en.wikipedia.org/wiki/Mitsubishi_500
+)
 
 
 "Cost of Ford Model TT
