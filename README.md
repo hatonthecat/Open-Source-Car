@@ -448,7 +448,7 @@ Thus, while a Chevy Trax might offer more features for slightly better fuel econ
 
 "![image](https://github.com/user-attachments/assets/90767a28-d29c-4078-9797-be106069e3f8)
 
-And when some people likes to share a joke for a couple ~~years~~ DAYS, you get a very knee jerk response:
+And when some people likes to share a joke for ~~couple~~ 7 ~~years~~ ~~DAYS~~ years, you get a very knee jerk response:
 
 https://www.theautopian.com/its-time-to-stop-sharing-that-meme-with-all-the-white-suvs-because-its-wrong-and-stupid/
 
