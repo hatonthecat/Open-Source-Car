@@ -501,7 +501,9 @@ https://www.calculator.net/inflation-calculator.html?cstartingamount1=500&cinmon
 ![image](https://github.com/user-attachments/assets/63e49f15-818d-4280-9c19-fbc93cab4b88)
 1960-62 [Mitsubishi 500](https://en.wikipedia.org/wiki/Mitsubishi_500
 )
-
+MSRP: 390000¥
+MSRP: https://www.in2013dollars.com/japan/inflation/1960?amount=390000Amount
+Result: ¥390,000 in 1960 → ¥2,354,321.30 in 2024 = 15,737.02 United States Dollar
 
 "Cost of Ford Model TT
 The Model TT was so accessible to the average American that the price actually dropped every year during the production run. This is unheard of, especially in today’s market when seemingly all prices – especially car prices – seem to tick up with the blink of an eye. In 1908 the Model T cost $850, or around $24,835 in today’s dollars when adjusted for inflation. In 1916, the prices had dropped to only $360 for the most basic Model T, or around $9,059 in today’s dollars. In 2012, the least expensive new car was $10,990. Henry Ford still has us beat."
