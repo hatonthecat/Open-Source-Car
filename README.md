@@ -373,7 +373,12 @@ What do I consider a modern car? Air conditioning, Heat, Radio. My family's firs
 
 From a [Quora](https://www.quora.com/Which-car-maker-uses-the-lowest-number-of-parts-to-make-a-car) answer 9 years ago( approx 2015): 
 
-"My Guestimate for the fewest parts on a modern recently designed vehicle would be one of the low end Tata cars or something similar (like the nano) though even these have a decent number of electrical components.
+"Cars have gotten exponentially more parts as they have become more complex and efficient, fuel injectors, electrically controlled components and other modern advances are usually quite complex. Because of this I'd say that companies that produce older style cars without a lot of complex modern components (such as tata cars) would be the lowest current production vehicles. Companies that produce kit cars (Build it yourself Vehicles) tend to be fairly simple as well.
+Manuals have less mechanical components,
+smaller vehicles have less components and smaller engines which have less components,
+anything without a turbo, aircon, direct injection (though carburettors are rare now) etc will have less parts.
+
+My Guestimate for the fewest parts on a modern recently designed vehicle would be one of the low end Tata cars or something similar (like the [nano](https://en.wikipedia.org/wiki/Tata_Nano)) though even these have a decent number of electrical components.
 
 For example for cost saving the Nano,
 has 3 wheel nuts (due to smaller wheels)
@@ -385,7 +390,11 @@ only one wing mirror,
 optional radio
 no airbags or aircon
 integrated headrests
-etc"
+etc
+
+All of these things mean less components, I don't know if it's the lowest number of parts modern production vehicle but it would have substantially less than the typical modern car"
+
+I am aware of the Nano's Crash Safety ratings. I am merely using the Nano as a starting point for conceptualizing a simplified car, but one of many possibilities- the first consideration should be safety, but overcomplexity (in electronics/ a complicated supply chain) can lead to declining safety and expenses.
 
 At the top of this repository is 5 steps for reducing bureacracy. Obviously designing a company product and the trying to reform a NHTSA standard are two different things, but the Tesla CEO is going to be in charge of a DOGE, and it would not be surprising if some regulations get relaxed, while others get stricter. However, I am skeptical they will necessarily address things like kit cars. A fortune 500 company is not going to be interested in low-volume sales that one day (possibly a distant future, 15-20 year from now), that competes with its own Teslas. In fact, Teslas might costs less than $20,000 some day, but... not everyone wants to drive one, let alone an autonomous one. 
 
