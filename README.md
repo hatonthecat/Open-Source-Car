@@ -381,20 +381,30 @@ anything without a turbo, aircon, direct injection (though carburettors are rare
 My Guestimate for the fewest parts on a modern recently designed vehicle would be one of the low end Tata cars or something similar (like the [nano](https://en.wikipedia.org/wiki/Tata_Nano)) though even these have a decent number of electrical components.
 
 For example for cost saving the Nano,
+
 has 3 wheel nuts (due to smaller wheels)
+
 only has 1 windscreen wiper
+
 only has access to the trunk through the rear seat (no rear hatch)
+
 two cylinder engine
+
 no power steering
+
 only one wing mirror,
+
 optional radio
+
 no airbags or aircon
+
 integrated headrests
+
 etc
 
 All of these things mean less components, I don't know if it's the lowest number of parts modern production vehicle but it would have substantially less than the typical modern car"
 
-I am aware of the Nano's Crash Safety ratings. I am merely using the Nano as a starting point for conceptualizing a simplified car, but one of many possibilities- the first consideration should be safety, but overcomplexity (in electronics/ a complicated supply chain) can lead to declining safety and expenses.
+I am aware of the Nano's Crash Safety ratings. I have never driven a car without power steering (at least not that I am aware of) I am merely using the Nano as a starting point for conceptualizing a simplified car, but one of many possibilities- the first consideration should be safety, but overcomplexity (in electronics/ a complicated supply chain) can lead to declining safety and expenses.
 
 At the top of this repository is 5 steps for reducing bureacracy. Obviously designing a company product and the trying to reform a NHTSA standard are two different things, but the Tesla CEO is going to be in charge of a DOGE, and it would not be surprising if some regulations get relaxed, while others get stricter. However, I am skeptical they will necessarily address things like kit cars. A fortune 500 company is not going to be interested in low-volume sales that one day (possibly a distant future, 15-20 year from now), that competes with its own Teslas. In fact, Teslas might costs less than $20,000 some day, but... not everyone wants to drive one, let alone an autonomous one. 
 
