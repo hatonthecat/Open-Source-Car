@@ -472,6 +472,8 @@ Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland ([Fiat 500](https:/
 ![image](https://github.com/user-attachments/assets/ecd8ba2e-eaa6-4c62-9cb9-4b98667457ff)
 How times have changed (The Colloseum hasn't)
 
+To be fair, the style of the 2024 500e is actually quite nice. The color selection uses a lot of natural creams and tones.  But it's not worth $38,000. I wouldn't even pay $19000 for it. I wouldn't even be eligible for a tax credit even it were available.  Would I pay $16,000 for it? Yes, probably since inflation has increased since I last purchased a car for $13,500 (excluding 10 year extended warranty, which I hope I never need to use)
+
 "The debut of this, the first modern mini car, generated a lot of interest in its native country. Billed as "A miniature big car" (there'll always be an ad man—even in Italy during the '30s) it represented quite a value. For $500 a fortunate Italian owner got four-wheel hydraulic brakes, four-speed synchromesh gearbox, independent front suspension, hydraulic shock absorbers, electric windshield wipers, interior light, adjustable bucket seats, sun visors, safety glass all around, sunshine roof, instruments (including oil pressure gauge!) and the unalloyed envy of all his neighbors. Some of these features have only come into use on low-cost American cars since World War II.
 
 The factory claimed 53 mph and 47 mpg for its new baby. In an "Autocar" road test of the period both figures were exceeded. The testers said that the car's free-revving engine and smooth shape put 60 and over on the clock whenever road conditions were the least bit favorable."
