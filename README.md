@@ -427,3 +427,15 @@ I am an Aptera fan for over 14 years. In 2010, I posted on a solar panel [forum]
 The Model TT was so accessible to the average American that the price actually dropped every year during the production run. This is unheard of, especially in today’s market when seemingly all prices – especially car prices – seem to tick up with the blink of an eye. In 1908 the Model T cost $850, or around $24,835 in today’s dollars when adjusted for inflation. In 1916, the prices had dropped to only $360 for the most basic Model T, or around $9,059 in today’s dollars. In 2012, the least expensive new car was $10,990. Henry Ford still has us beat."
 
 Considering 65" Flat Screen TVs can be purchased on Black Friday (today) for $249 and TVs being affordable for over 10 years, it's high time manufacturers focus their efforts on cheaper cars. It's likely [cars from China](https://www.autoblog.com/news/chinese-evs-are-coming-to-the-u-s-tariffs-or-no-tariffs) at 200% tariff will be imported if not for the U.S.'s unwillingness to make cars more affordable. 
+
+ I am also a signatory to the [Open Source Hardware Association](https://freedomdefined.org/index.php?title=OSHW) in 2011. 
+ 
+ https://en.wikipedia.org/wiki/Open-source_hardware
+
+I prefer to adopt the Franke Pierre Resort and Casino motto when it comes to open-source utilization: ["Dine without eating."](https://www.youtube.com/watch?v=Gi_0OOQY2t8&t=160s) 
+
+"Eat or don't. We don't Care!"
+
+Manufacture your own part, or not. We don't care.
+
+If I were the owner of a successful open source car company that made complete cars and car parts as well, I wouldn't really be concerned if I didn't have as many sales for complete cars- if I could sell enough parts to stay in business. The definition of auto-industry need not be the conventional "car-maker" but part maker. If a car gets crash-tested and road-approved by a third party, the car maker does not have to become responsible for the final assemble. Does it really matter if the profits from a car part manufacturer are separate from an independent entity that specializes in assembling complete cars? That's basically what Boeing became- they outsourced parts, but, there is no reason they can't continue to outsource, as long as there are agreed upon specififications. Boeing's lossed came from designing and delegating parts to outside manufacturers that did not fit when they arrived. 
