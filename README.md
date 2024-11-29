@@ -421,7 +421,38 @@ My name is Roman J Israel. Advocate for civil rights, consumer rights for over 2
 
 ![image](https://github.com/user-attachments/assets/235cc2eb-cb3e-477b-89ef-8a08ad6d9dc5)
 
-I am an Aptera fan for over 14 years. In 2010, I posted on a solar panel [forum](https://www.solarpaneltalk.com/forum/off-grid-solar/off-grid-solar-panel-systems/2608-solar-panels-and-batteries-that-could-recharge-an-aptera/page2) inquiring about the feasibility of powering an Aptera with solar panels on rooftops, getting only the most close-minded responses. Since then, Tesla has soared in popularity, and Mitsubishi recently discontinued their Mirage, one of the last remaining cars under $20,000. Even adjusting for inflation $20,000 is still more expensive than a 1916 economy when you could buy a Model T for $360 ([$10,000](https://www.cardonationwizard.com/blog/the-first-affordable-automobile-1926-ford-model-t/), adjusted for inflation), and offers a lot more for the money. But for those who prefer not to waste money on things with a limited lifespan, it makes a lot more sense to invest in a car that can last 50 years, at least its [chassis](https://www.roadandtrack.com/reviews/a45752401/toyotas-10000-future-pickup-truck-is-basic-transportation-perfection/), that is arguably offers a lot more for the money.
+I am an Aptera fan for over 14 years. In 2010, I posted on a solar panel [forum](https://www.solarpaneltalk.com/forum/off-grid-solar/off-grid-solar-panel-systems/2608-solar-panels-and-batteries-that-could-recharge-an-aptera/page2) inquiring about the feasibility of powering an Aptera with solar panels on rooftops, getting only the most close-minded responses. Since then, Tesla has soared in popularity, and Mitsubishi recently discontinued their Mirage, one of the last remaining cars under $20,000. After 2025, even sub-$20,000 is [going away](https://www.thecarconnection.com/news/1143895_new-cars-under-20-000-there-won-t-be-any-after-2025). 
+
+The article concludes: 
+
+"What is the best cheap new car?
+We don't want them, or so automakers suggest. Yet, of the dozen or so new cars priced less than $25,000, there's one that stands out so much it earned The Car Connection Best Economy Car To Buy 2024. It's the Chevrolet Trax, now on sale as a 2025 model for just $21,495 in the base LS grade. Redesigned for 2024, the Trax grew longer, larger, and prettier, with a sophisticated interior and excellent infotainment and safety features."
+
+Even adjusting for inflation $20,000 is still more expensive than a 1916 economy when you could buy a Model T for $360 ([$10,000](https://www.cardonationwizard.com/blog/the-first-affordable-automobile-1926-ford-model-t/), adjusted for inflation), and offers a lot more for the money. But for those who prefer not to waste money on things with a limited lifespan, it makes a lot more sense to invest in a car that can last 50 years, at least its [chassis](https://www.roadandtrack.com/reviews/a45752401/toyotas-10000-future-pickup-truck-is-basic-transportation-perfection/), that is arguably offers a lot more for the money.
+
+Clicking on that link, I find marginally better fuel economy than my [2000](https://www.kbb.com/ford/focus/2000/) Ford Focus:
+
+"Chevrolet's put a peppy 1.2-liter turbo-3 with 137 hp and 162 lb-ft of torque under the hood of the Trax. It mates with a smooth-shifting 6-speed automatic transmission that does its best to keep the turbo spooled through first and second gears. Every Trax is front-wheel drive as all-wheel drive isn't an option. While it's not quick–we'd peg the 0-60 mph time in the eight-second range–it seems to have enough power to get out of its own way. Active noise cancellation damps the drivetrain and works well. The turbo-3 emits a low growl when pressed hard, but day-to-day it blends into the background. 
+
+The turbo-3 pays off at the pump. While it's not a hybrid, it sips gas with EPA fuel economy ratings of 28 mpg city, 32 highway, 30 mpg combined."
+
+Really, Car Connection? Really?
+
+![image](https://github.com/user-attachments/assets/d10b2c39-b18a-4be1-8722-993979be264c)
+
+The LX Sedan 4D had an MSRP of $13,335, which in [2024 dollars](https://smartasset.com/investing/inflation-calculator#905kfxwqx9) is $24310.
+
+![image](https://github.com/user-attachments/assets/6eb5ae24-2ba9-499b-921c-79bbacae643c)
+
+Thus, while a Chevy Trax might offer more features for slightly better fuel economy, the question is does the cost to maintain a Trax for 10 years add up if the manufacturer discontinues it after just a couple years, and the electronics lose support/development? Suddenly a formerly non-essential touchscreen that needs to be running to display lane migration turns a car into an expensive brick. 
+
+"![image](https://github.com/user-attachments/assets/90767a28-d29c-4078-9797-be106069e3f8)
+
+And when some people likes to share a joke for a couple ~~years~~ DAYS, you get a very knee jerk response:
+
+https://www.theautopian.com/its-time-to-stop-sharing-that-meme-with-all-the-white-suvs-because-its-wrong-and-stupid/
+
+Fortunately, some car websites don't take such a dismissive tone and at least try to explain the situation: https://jalopnik.com/every-car-looks-like-this-thanks-to-a-gigantic-regulato-1849837803
 
 "Cost of Ford Model TT
 The Model TT was so accessible to the average American that the price actually dropped every year during the production run. This is unheard of, especially in today’s market when seemingly all prices – especially car prices – seem to tick up with the blink of an eye. In 1908 the Model T cost $850, or around $24,835 in today’s dollars when adjusted for inflation. In 1916, the prices had dropped to only $360 for the most basic Model T, or around $9,059 in today’s dollars. In 2012, the least expensive new car was $10,990. Henry Ford still has us beat."
