@@ -1,4 +1,4 @@
-# OpenSourceCar
+![image](https://github.com/user-attachments/assets/0ed89157-dabf-4d15-9144-3d81315d4ba8)# OpenSourceCar
 A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
 Most new car companies are using the luxury car model to support revenue. I am thinking the opposite. The opposite can work if designs are open sourced, and a number of car part manufacturers each obtain a stake in the company.
@@ -461,6 +461,16 @@ Except EVs shouldn't get an easy pass either:
 "Automakers are pivoting to electric vehicles, which don’t have to meet any tailpipe emissions regulations and, for now, aren’t penalized for being overly electron-thirsty. "
 
 I'm interested in a an EV that maximizes range on a 10kWh battery using optimized aerodynamics/low drag-coefficient -i.e something like an open-source Aptera. EV makers should NOT just develop cars that are "OVERLY ELECTRON THIRSTY," just because they CAN.
+
+While I don't often make a huge stink about the shape of cars, especially since many generations had similar competing shapes, the fact that there aren't any sub $20,000 cars, and that car websites are recommending a jelly-bean shaped car instead of a sedan, which has been disappearing for decades from the U.S. market, and the fact that Stellantis's [Fiat 500e](https://www.fiatcanada.com/en/500e/features-design) costs over [$38,000](https://www.caranddriver.com/fiat/500e) without tax credit eligibility, and the fact that they have [halted production](https://www.electrive.com/2024/11/29/stellantis-again-halts-production-of-the-fiat-500e/) due to lack of demand (due to pricing the car too high, which is their fault, and expecting their customers to have the wealth of an Italian prince)
+
+![Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland](https://github.com/user-attachments/assets/22e9a9c0-201f-419a-b938-9386335ee3a5)
+Britt Ekland and Peter Sellers Rome 1965 by Douglas Kirkland
+
+
+![image](https://github.com/user-attachments/assets/ecd8ba2e-eaa6-4c62-9cb9-4b98667457ff)
+How times have changed (The Colloseum hasn't)
+
 
 "Cost of Ford Model TT
 The Model TT was so accessible to the average American that the price actually dropped every year during the production run. This is unheard of, especially in today’s market when seemingly all prices – especially car prices – seem to tick up with the blink of an eye. In 1908 the Model T cost $850, or around $24,835 in today’s dollars when adjusted for inflation. In 1916, the prices had dropped to only $360 for the most basic Model T, or around $9,059 in today’s dollars. In 2012, the least expensive new car was $10,990. Henry Ford still has us beat."
