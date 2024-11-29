@@ -331,3 +331,23 @@ Two, though turned out quite well (except a little too low for the street height
 4/9/2024
 --
 Ford's  electric car competition https://www.motortrend.com/news/secret-affordable-ford-evs-coming-to-take-on-tesla-and-china/
+
+Kit Cars
+--
+11/29/2024
+
+https://en.wikipedia.org/wiki/Kit_car
+
+"A kit car is an automobile available as a set of parts that a manufacturer sells and the buyer then assembles into a functioning car. Usually, many of the major mechanical systems such as the engine and transmission are sourced from donor vehicles or purchased new from other vendors. Kits vary in completeness, consisting of as little as a book of plans, or as much as a complete set with all components to assemble into a fully operational vehicle such as those from Caterham."
+
+Related terms
+A subset of the kit car, commonly referred to as a "re-body", is when a commercially manufactured vehicle has a new (often fiberglass) body put on the running chassis. Most times, the existing drive gear and interior are retained. These kits require less technical knowledge from the builder. Because the chassis and mechanical systems were designed, built, and tested by a major automotive manufacturer, a re-body can lead to a much higher degree of safety and reliability.
+
+The definition of a kit car usually indicates that a manufacturer constructs multiple kits of the same vehicle, each of which it then sells to a third party to build. A kit car should not be confused with 
+
+a _hand built_ car or special car, which is typically modified or built from scratch by an individual for a specific purpose (such as hillclimbing, road or circuit racing, or record attempts). "Rally specials" and "homologation specials" have, especially since the Second World War, typically referred to special series-produced cars built by manufacturers.
+
+a _component car_, which is a self-assembly car in which 100% of the parts required to build the car are purchased from a single company. Component cars are distinguished from kit cars as all parts are quality controlled and designed to fit together perfectly. They can be built in significantly less time than a "kit car". See also knock-down kit, a term usually applied to a similar but larger commercial exercise.
+
+![image](https://github.com/user-attachments/assets/f4357573-04f5-4b65-b9b5-68430ad1dca2)
+
