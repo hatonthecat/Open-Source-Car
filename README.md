@@ -368,3 +368,30 @@ Another distinction that can be made is that kit cars are typically designed for
 For example, if I wanted to design a clone or knockoff of an Electric Elio, or Aptera, I wouldn't be seeking to develop a kit car for a replica of a vintage car- I'd be interested in designing a practical commuter car with possibly decent range (i.e 250 mile range). The only difference is that if a car company like Aptera or Elio never produce a car, or go out of business, there would be a limited component aftermarket. This open-source system is designed to prevent that, by allowing a open source designers to reproduce the parts needed, and presumably, if the car is popular enough, there will be enough manufacturers to have a surplus of all the components needed to assemble the vehicle. TThis might sound like additional regulatory hurdles, but a time-tested and crash-tested car needn't be discontinued just because the car went out of production (e.g. discontinnued). It is possible that with multiple manufacturers using various machining tools, that the measurements might have ill-fitting parts, but as long as there is an independent clearinghouse for parts to verify, there should be no difference in the quality of the decentralized nature of manufacture. A car company can't *go out of business* if there is no business to own or control. That is the point- similar to bittorrent.
 
 The chassis could be multi-compatble, so that multiple outer frames/bodies could be designed to fit a chassis. 
+
+What do I consider a modern car? Air conditioning, Heat, Radio. My family's first car had an 8-track slot, which was left empty, because at the time, there was a concern someone one would try to steal it. It had a radio. With so many options for portable phones and tablets and on-dashboard navigation, a USB-port and tablet holder might be the only thing needed- to allow upgradeability of the navigation system, but not requiring it to be wired to all the on-board electronics.
+
+From a [Quora](https://www.quora.com/Which-car-maker-uses-the-lowest-number-of-parts-to-make-a-car) answer 9 years ago( approx 2015): 
+
+"My Guestimate for the fewest parts on a modern recently designed vehicle would be one of the low end Tata cars or something similar (like the nano) though even these have a decent number of electrical components.
+
+For example for cost saving the Nano,
+has 3 wheel nuts (due to smaller wheels)
+only has 1 windscreen wiper
+only has access to the trunk through the rear seat (no rear hatch)
+two cylinder engine
+no power steering
+only one wing mirror,
+optional radio
+no airbags or aircon
+integrated headrests
+etc"
+
+At the top of this repository is 5 steps for reducing bureacracy. Obviously designing a company product and the trying to reform a NHTSA standard are two different things, but the Tesla CEO is going to be in charge of a DOGE, and it would not be surprising if some regulations get relaxed, while others get stricter. However, I am skeptical they will necessarily address things like kit cars. A fortune 500 company is not going to be interested in low-volume sales that one day (possibly a distant future, 15-20 year from now), that competes with its own Teslas. In fact, Teslas might costs less than $20,000 some day, but... not everyone wants to drive one, let alone an autonomous one. 
+
+Aptera has been making [some progress](https://cleantechnica.com/2024/11/02/aptera-has-a-driving-production-car-but-theres-still-a-way-to-go/), albeit slowly. One of their mottos I saw recently on their [website](https://aptera.us/) was "Make Driving Fun Again." 
+
+![image](https://github.com/user-attachments/assets/4ff1ea60-b479-4727-b481-46459bb33aaa)
+
+I think that captures the sentiment more clearly than a lot of the other AI-generated LinkedIn posts that dominates industry chatter. With all the chipmakers making heavy investments in AI, very little has been said about old fashioned driving. The Silicon Valley divide is between accelerationists/futurists that want to see autonomous everything, and those that merely want to improve some basic electric vehicles as their era has barely arrived. I would be happy with a generation of EVs where market share reaches 40% before all the noise about AI arrives, but like a rowdy cousin, AI and EVs have become mainstream relatively within the same decade, much to the detriment of EVs.
+
