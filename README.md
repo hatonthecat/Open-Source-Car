@@ -432,10 +432,10 @@ Considering 65" Flat Screen TVs can be purchased on Black Friday (today) for $24
  
  https://en.wikipedia.org/wiki/Open-source_hardware
 
-I prefer to adopt the Frank Pierre Resort and Casino motto when it comes to open-source utilization: ["Dine without eating."](https://www.youtube.com/watch?v=Gi_0OOQY2t8&t=160s) 
+I prefer to adopt the Frank Pierre Resort and Casino motto when it comes to open-source utilization: ["Dining without eating."](https://www.youtube.com/watch?v=Gi_0OOQY2t8&t=160s) 
 
 "Eat or don't. We don't Care!"
 
-Manufacture your own part, or not. We don't care.
+_Manufacture your own car parts, or not. We don't care._
 
 If I were the owner of a successful open source car company that made complete cars and car parts as well, I wouldn't really be concerned if I didn't have as many sales for complete cars- if I could sell enough parts to stay in business. The definition of auto-industry need not be the conventional "car-maker" but "part maker". If a car gets crash-tested and road-approved by a third party, the car maker does not have to become responsible for the final assemble. Does it really matter if the profits from a car part manufacturer are separate from an independent entity that specializes in assembling complete cars? That's basically what Boeing [became](https://www.industryweek.com/supply-chain/supplier-relationships/article/21282352/boeings-organizational-problems-date-back-two-decades)- they outsourced parts, but, there is no reason they can't continue to outsource, as long as there are agreed-upon specififications. Boeing's loss came from designing and delegating parts to outside manufacturers that [did not fit](https://en.wikipedia.org/wiki/Boeing_787_Dreamliner#Manufacturing_and_suppliers) when they arrived. 
