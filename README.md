@@ -460,7 +460,7 @@ Except EVs shouldn't get an easy pass either:
 
 "Automakers are pivoting to electric vehicles, which don’t have to meet any tailpipe emissions regulations and, for now, aren’t penalized for being overly electron-thirsty. "
 
-I'm interested in a an EV that maximizes range on a 10kWh battery using optimized aerodynamics/low drag-coefficient -i.e something like an open-source Aptera. EV makers should NOT just develop things cars that are "OVERLY ELECTRON THIRSTY", just because they CAN.
+I'm interested in a an EV that maximizes range on a 10kWh battery using optimized aerodynamics/low drag-coefficient -i.e something like an open-source Aptera. EV makers should NOT just develop cars that are "OVERLY ELECTRON THIRSTY," just because they CAN.
 
 "Cost of Ford Model TT
 The Model TT was so accessible to the average American that the price actually dropped every year during the production run. This is unheard of, especially in today’s market when seemingly all prices – especially car prices – seem to tick up with the blink of an eye. In 1908 the Model T cost $850, or around $24,835 in today’s dollars when adjusted for inflation. In 1916, the prices had dropped to only $360 for the most basic Model T, or around $9,059 in today’s dollars. In 2012, the least expensive new car was $10,990. Henry Ford still has us beat."
