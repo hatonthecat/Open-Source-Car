@@ -1,4 +1,4 @@
-Open Source Car
+asOpen Source Car
 --
 A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
@@ -130,7 +130,7 @@ https://www.enginebuildermag.com/2024/03/a-new-take-on-the-rotary-engine/
 Figure 4: LiquidPiston’s 25 hp XTS-210 (on left) compared to Kohler’s 25 hp KDW1003 (on right)
 
 
-That is because these engines are potentially much simpler, and do not all (or any) require a crankshaft. While I've thought of [electric](https://www.youtube.com/watch?v=LYQ2PiX_Z9o) motors, I've been exploring a basic commuter car that many could use, in places where electric charging is not feasible or simple.
+That is because these engines are potentially much simpler, and do not all (or any) require a crankshaft. While I've thought of [electric](https://www.youtube.com/watch?v=LYQ2PiX_Z9o) motors, I've been exploring a basic commuter car that manyŞ could use, in places where electric charging is not feasible or simple.
 
 https://www.eenewseurope.com/en/qorvo-set-to-go-head-to-head-with-ti-on-gan-ipm-power-modules could this power a golf cart? 2kW is a very light golf cart.
 
@@ -553,3 +553,8 @@ some resources include open source ecology (Global Village Construction Set):
 https://www.opensourceecology.org/gvcs/
 
 and Replimat: https://wiki.replimat.org/
+
+https://youtu.be/-WC1Yq1S7lY?feature=shared
+
+The solar powered Formula 1 cars above that I used Chat-GPT to generate last year look not so unlikely now: https://youtu.be/h0it7F9VBWg?feature=shared Drew builds a solar powered car with 1500 watts of power (six 175 watt panels weighing 7 pounds each + 4lbs for custom wooden frame) and travels 244km (151 miles) in 7 hrs of sun. generates 1.3kw of power.
+
