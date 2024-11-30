@@ -1,4 +1,4 @@
-asOpen Source Car
+Open Source Car
 --
 A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
