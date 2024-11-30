@@ -548,3 +548,8 @@ Eric Hunting mentioned something similar to this in his solar punk essay in 2021
 Again, we must emphasize that this is not about some return to the hand-made past, even if, in the near-term, we might expect a revival of many old techniques as part of the transition from Industrial Age paradigms. Automation is prominent, even ubiquitous, in the imagined Solarpunk future, but in forms very different from the Industrial Age retrofuturism of corporate techno-utopianism. It is local, non-speculative, demand-driven, highly generalized production enabled by robotization and emerging as a community/municipal utility. The paradigm of centralized mass production has been supplanted by a new paradigm enabled by new technology; cosmolocalization. Design global, make local. The key to freedom and resilience is in the communal and personal ownership of the means of production and the digital globalization of open industrial and design knowledge. Counterintuitively, Solarpunk is very much about anticipating the impacts of robotization and even more advanced nanotechnology.
 
 Solarpunk (or more generally, Post-Industrial) design and artifacts may often have features we might associate with old Modernism, but now pragmatically adapted to the service of environment and social empowerment. Minimalism for the purpose of enabling adaptive reuse and easier recycling. Modularity to allow immediate reuse and empower the end-user to undertake their own design, customization, and repair."
+
+some resources include open source ecology (Global Village Construction Set):
+https://www.opensourceecology.org/gvcs/
+
+and Replimat: https://wiki.replimat.org/
