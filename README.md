@@ -527,3 +527,24 @@ If I were the owner of a successful open source car company that made complete c
 Who are all these cloners?
 
 ![image](https://github.com/user-attachments/assets/1cd34082-9e06-454f-9083-2089b51a4866)
+
+Assembly Plant-As-A-Service (APAAS)
+--
+
+
+I think I've figured out the framework for an open source car.
+
+It would be similar to a pure play foundry, except with assembly: programmable robots that can put together various car types using the same chasses.
+
+While initially this would work with maybe a single model, the design could be modifiable to a point that requires minimal robotic reprogramming.
+
+Also, the assembly plant wouldn't own the parts nor the final car that gets assembled-that would be ordered by the consumer, who would pay for the assembly and testing phase. The buyer could order the parts individually and then have them shipped over, or the assembly plant could have a limited stock of parts that they buy for known and complete models, but not own the design or exclusive rights to produce that car (in other words, if another competing assembly plant wants to assemble the same vehicle, they could). 
+
+Its basically the difference from producing a car to create capital as opposed to the capital of service.
+
+Eric Hunting mentioned something similar to this in his solar punk essay in 2021: https://www.sciphijournal.org/index.php/2021/09/30/on-solarpunk/
+
+"Solarpunk explores a culture and habitat aspiring to optimum circularity in resource use. Where unsustainable materials like plastic have been largely obsolesced along with the equally unsustainable and pathological practices of the market economy, such as disposability, planned obsolescence, sliding scales of economy, and speculative production. 
+Again, we must emphasize that this is not about some return to the hand-made past, even if, in the near-term, we might expect a revival of many old techniques as part of the transition from Industrial Age paradigms. Automation is prominent, even ubiquitous, in the imagined Solarpunk future, but in forms very different from the Industrial Age retrofuturism of corporate techno-utopianism. It is local, non-speculative, demand-driven, highly generalized production enabled by robotization and emerging as a community/municipal utility. The paradigm of centralized mass production has been supplanted by a new paradigm enabled by new technology; cosmolocalization. Design global, make local. The key to freedom and resilience is in the communal and personal ownership of the means of production and the digital globalization of open industrial and design knowledge. Counterintuitively, Solarpunk is very much about anticipating the impacts of robotization and even more advanced nanotechnology.
+
+Solarpunk (or more generally, Post-Industrial) design and artifacts may often have features we might associate with old Modernism, but now pragmatically adapted to the service of environment and social empowerment. Minimalism for the purpose of enabling adaptive reuse and easier recycling. Modularity to allow immediate reuse and empower the end-user to undertake their own design, customization, and repair."
