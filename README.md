@@ -558,3 +558,7 @@ https://youtu.be/-WC1Yq1S7lY?feature=shared
 
 The solar powered Formula 1 cars above that I used Chat-GPT to generate last year look not so unlikely now: https://youtu.be/h0it7F9VBWg?feature=shared Drew builds a solar powered car with 1500 watts of power (six 175 watt panels weighing 7 pounds each + 4lbs for custom wooden frame) and travels 244km (151 miles) in 7 hrs of sun. generates 1.3kw of power.
 
+https://en.wikipedia.org/wiki/Stella_(solar_vehicles)
+https://en.wikipedia.org/wiki/World_Solar_Challenge
+
+https://insideevs.com/news/731199/infinte-range-solar-ev-home-build/
