@@ -75,13 +75,15 @@ The fifth and last step of Musk's algorithm involves automation. Now that you ha
 
 Musk: "[Automate] comes last. The big mistake in [my factories] was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out." 
 
-Automation can be both decision making and mechanical and digital automation. In our current work to scale digital neighbourhoods across the Southwest of England, automation will be both about identifying people at risk, and supporting their decision-making, we have already identified where lack of clarity is on this. My decision will have a huge impact and can be automated. As for the AI tool that will help identify people who, with a different and earlier intervention, will lead more healthy and independent lives and the automation is remarkable.  
+Automation can be both decision making and mechanical and digital automation. In our current work to scale digital neighbourhoods across the Southwest of England, automation will be both about identifying people at risk, and supporting their decision-making, we have already identified where lack of clarity is on this. My decision will have a huge impact and can be automated. As for the AI tool that will help identify people who, with a different and earlier intervention, will lead more healthy and independent lives and the automation is remarkable."
 
 https://www.reddit.com/r/cars/comments/18a8qwy/how_much_does_it_cost_to_start_your_own_car/?rdt=44018
 
+
+---
 After watching some videos of 3D printed engines, I have been curious of potentially developing a 3D printed car. It's not the first time I've explored this topic, but starting a repository would be a more organized way to store my thoughts and links.
 
-Mechanics- engines, combustion, thermodynamics, to a person usually interested in computer and software, can appear quite mesmerizing. It certainly requires a different part of the brain to conceptualize, and exercising different parts of my brain is my way of keeping myself from becoming bored. "
+Mechanics- engines, combustion, thermodynamics, to a person usually interested in computer and software, can appear quite mesmerizing. It certainly requires a different part of the brain to conceptualize, and exercising different parts of my brain is my way of keeping myself from becoming bored.
 
 Create the Linux of Teslas
 
