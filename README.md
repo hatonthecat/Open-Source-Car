@@ -137,6 +137,9 @@ https://www.enginebuildermag.com/2024/03/a-new-take-on-the-rotary-engine/
 
 Figure 4: LiquidPiston’s 25 hp XTS-210 (on left) compared to Kohler’s 25 hp KDW1003 (on right)
 
+1986 Stirling Engine designed by NASA. 4 cylinder, 41mpg: 
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19880002196.pdf
+(uses no Cobalt)
 
 That is because these engines are potentially much simpler, and do not all (or any) require a crankshaft. While I've thought of [electric](https://www.youtube.com/watch?v=LYQ2PiX_Z9o) motors, I've been exploring a basic commuter car that manyŞ could use, in places where electric charging is not feasible or simple.
 
