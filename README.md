@@ -433,7 +433,7 @@ My name is Roman J Israel. Advocate for civil rights, consumer rights for over 2
 
 ![image](https://github.com/user-attachments/assets/235cc2eb-cb3e-477b-89ef-8a08ad6d9dc5)
 
-I am an Aptera fan for over 14 years. In 2010, I posted on a solar panel [forum](https://www.solarpaneltalk.com/forum/off-grid-solar/off-grid-solar-panel-systems/2608-solar-panels-and-batteries-that-could-recharge-an-aptera/page2) inquiring about the feasibility of powering an Aptera with solar panels on rooftops, getting only the most close-minded responses. Since then, Tesla has soared in popularity, and Mitsubishi recently discontinued their Mirage, one of the last remaining cars under $20,000. After 2025, even sub-$20,000 is [going away](https://www.thecarconnection.com/news/1143895_new-cars-under-20-000-there-won-t-be-any-after-2025). 
+I am an Aptera fan for over 14 years. In 2010, I posted on a solar panel [forum](https://www.solarpaneltalk.com/forum/off-grid-solar/off-grid-solar-panel-systems/2608-solar-panels-and-batteries-that-could-recharge-an-aptera/page2) inquiring about the feasibility of powering an Aptera with solar panels on rooftops, getting only the most close-minded responses. Since then, Tesla has soared in popularity, and Mitsubishi recently discontinued their Mirage, one of the last remaining cars under $20,000. After 2025, even [sub-$20,000](https://driving.ca/features/shopping-advice/sub-20000-new-cars-cheap-affordable-canada) is [going away](https://www.thecarconnection.com/news/1143895_new-cars-under-20-000-there-won-t-be-any-after-2025). 
 
 The article concludes: 
 
