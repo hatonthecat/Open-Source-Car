@@ -94,6 +94,15 @@ https://www.youtube.com/watch?v=TbhF7jTLlG4
 
 Second, a completely hilarious blast from 1980s Japan https://www.youtube.com/watch?v=bL_T4Lr0uu8
 
+Also, https://www.wsj.com/business/autos/pickup-truck-drivers-kei-japan-honda-693effd4
+‘What Is That Thing?’ Tiny Trucks Are Causing Big Fights.
+Japanese haulers have won people over, even in Texas, but many states say they’re too brittle for America’s streets; ‘a dude magnet’
+By 
+Sean McLain
+Dec. 16, 2024 10:00 am ET
+
+https://www.youtube.com/watch?v=LZNCMpX43WA
+
 "I Tried 3D Printing a Gas-Powered Engine!"
 https://www.youtube.com/watch?v=jNVx6OBBx-k 
 
