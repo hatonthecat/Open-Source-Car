@@ -582,3 +582,52 @@ https://en.wikipedia.org/wiki/Stella_(solar_vehicles)
 https://en.wikipedia.org/wiki/World_Solar_Challenge
 
 https://insideevs.com/news/731199/infinte-range-solar-ev-home-build/
+
+In response to AI Search Engines:
+---
+![image](https://github.com/user-attachments/assets/c2123f4a-5355-4f22-9ae0-0182bed3aa63)
+
+![image](https://github.com/user-attachments/assets/951bec85-141b-4500-a706-cb827b8c77bd)
+
+curiously, the "air-powered" disappeared after re-quering the page:
+
+Maybe human analysts are behind the Perplexity results, realizing how incorrect these responses can be.
+
+![image](https://github.com/user-attachments/assets/e5928c8c-1da8-40b5-97a5-a5f73901f360)
+
+![image](https://github.com/user-attachments/assets/6448de35-df5d-4b33-8bd8-84c54a45ef19)
+
+
+
+I've read about Perplexity as a Google Search Engine Competitor, and while I think it's an interesting supplement to "old fashioned" search algorithms, I think it's important to remember that sometimes the summaries can get it wrong. For example, I ran a summary of this page after noticing someone used Perplexity to summarize this page. This isn't my longest repository, but a summary can still shorten the important points. Perplexity got most of it right, except: it mentioned gas-sourced and air-sourced fuel (see above). I wasn't sure if it referred to naturally aspirated engines, or air-source heat pumps. But it might have been trying to refer to sun-powered EVs, without being able to infer that correctly. A Robot sees shapes, not objects..
+
+Surprisingly, it does a decent job on finding other OS projects:
+
+"Yes, there are several successful examples of open-source cars and initiatives in the automotive industry:
+Toyota and Lexus vehicles: Since 2018, virtually all Toyota and Lexus cars worldwide have been running on Automotive Grade Linux (AGL), an open-source software platform for connected car technology2
+.
+Subaru: All Subaru vehicles worldwide now use AGL for their infotainment systems2
+.
+Mercedes-Benz: Mercedes-Benz Vans have implemented AGL in their vehicles2
+.
+Tesla: While not fully open-source, Tesla's car software is based on Linux, GNU toolchain, buildroot, and other open-source projects3.
+Volkswagen, BMW, and other European manufacturers: These companies are known to use open-source software in both their IT infrastructure and vehicles3.
+OSVehicle Tabby EVO: This is an open-source car project mentioned in open-source vehicle discussions1.
+LifeTrac: While primarily for farming and off-road use, this open-source vehicle is in its 21st revision and has been a long-standing project1.
+UELVE MBC: This is an ongoing open-source project for a Category L7e Hybrid EV 3-passenger vehicle1.
+
+
+https://en.wikipedia.org/wiki/OSVehicle_Tabby
+https://www.ycombinator.com/companies/open-motors
+https://wiki.opensourceecology.org/wiki/UELVE_MBC
+https://wiki.opensourceecology.org/wiki/Luke_Log
+https://wiki.opensourceecology.org/wiki/Open_Source_Battery_Pack
+http://lkcl.net/ev/suzuki_swift_conversion/
+
+I really only have one theory in what makes a successful car company. Get the best aesthetic designer of cars. They happen to be French, Italian and British. The car can't look hideous. Unfortunately, society has an innate need to look appealling to a future partner. Thus, no matter how efficient and affordable the car is (sometimes due to that fact), a car has to look nice for it sell. 
+
+And automakers that install LEDs need to make them adaptive, 2700k, and switch away from laser LEDs:
+https://www.repairerdrivennews.com/2023/12/14/led-headlamps-draw-attention-over-safety-concerns/
+https://www.forbes.com/sites/michaeltaylor/2024/08/14/laser-headlamps-are-disappearing-heres-why/
+https://www.theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents
+https://xaviermontegue.substack.com/p/the-dark-side-of-led-lights
