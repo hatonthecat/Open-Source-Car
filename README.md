@@ -270,7 +270,7 @@ https://www.farmanddairy.com/columns/the-selden-patent-and-its-role-in-auto-hist
 
 https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113
 
-
+https://www.azom.com/article.aspx?ArticleID=1347 Chrysler’s Composite Concept Vehicle (CCV) - 2002 1200lbs
 
 "Henry Ford
 By 1903, Henry Ford was ready to begin making a low-cost car and applied to the ALAM for a license, which was rejected. Apparently ALAM members, who were selling expensive cars, feared Ford’s low-cost offerings and told Ford he could have the license if he limited his production to 10,000 cars per year and sold them for at least $1,000 each.
