@@ -14,6 +14,9 @@ https://www.carscoops.com/2024/11/lucid-ceo-open-to-license-their-tech-but-says-
 
 https://www.youtube.com/watch?v=Jgw-_hlFQk4#:~:text=Elon%20Musk%20Five%20Step%20Improvement,and%20video%20from%20Everyday%20Astronaut.
 
+https://www.youtube.com/watch?v=hkabBP85e2I "My Opinion on Electric Vehicles! Is everyone brainwashed!? Pros Cons and Misconceptions! 
+DIY Solar Power with Will Prowse"
+
 https://icecreates.com/insight/musk-s-5-steps-to-cut-internal-bureaucracy-at-tesla-and-spacex-you-may-say-it-s-his-algorithm/
 
 according to the 5 steps:
