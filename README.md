@@ -322,6 +322,10 @@ Never Just A Car https://www.youtube.com/watch?v=ayJ3ktqJ4L0
 ---
 Solar Powered Car/Electric
 ---
+4-29-2025
+
+https://solar.lowtechmagazine.com/2012/10/electric-velomobiles-as-fast-and-comfortable-as-automobiles-but-80-times-more-efficient-part-two/
+
 11-19-2023
 
 These turned out to be quite conventional sports cars with minimal solar panel coverage since the horsepower/weight of the car would not allow the solar to charge enough to charge enough power than a few miles per day:
