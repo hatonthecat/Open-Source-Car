@@ -131,6 +131,8 @@ https://nexa3d.com/blog/best-metal-3d-printers
 Engines
 ---
 
+https://www.hotcars.com/legendary-jdm-engines-dirt-cheap/
+
 Mechanical dexterity is not my forte, so watching some 3Dp printed parts operate have quite a bit more tolerance than I could design myself. I'm not great at all with 3D design programs, whether it is Blender, CAD or other software. That said, if someone could design a 3D printed engine, I could potentially download it and buy a 3D printer to produce and assemble all the parts. 
 
 The engines I've been interested in are the opposed piston
@@ -443,6 +445,14 @@ Aptera has been making [some progress](https://cleantechnica.com/2024/11/02/apte
 I think that captures the sentiment more clearly than a lot of the other AI-generated LinkedIn posts that dominates industry chatter. With all the chipmakers making heavy investments in AI, very little has been said about old fashioned driving. The Silicon Valley divide is between accelerationists/futurists that want to see autonomous everything, and those that merely want to improve some basic electric vehicles as their era has barely arrived. I would be happy with a generation of EVs where market share reaches 40% before all the noise about AI arrives, but like a rowdy cousin, AI and EVs have become mainstream relatively within the same decade, much to the detriment of EVs. AI needs a lot more testing before it can be road-safe. But some carmakers are more than willing to push AI to tech unsavvy municpalities and states, embracing it as some revolution in driving when it continues to cause unforced errors. I may be a better driver than most people, and perhaps this is why I don't like AI- because regulations one day might force people to become passengers in driverless cars when perfectly good drivers exist, even in the minority.
 
 https://www.thedrive.com/features/how-to-design-and-build-a-cheap-electric-go-kart-from-scratch
+
+https://www.motorbiscuit.com/cheapest-2026-ev-more-expensive/
+
+https://www.caranddriver.com/news/a64701202/mitsubishi-ev-2026-nissan-leaf/
+
+https://www.prnewswire.com/news-releases/mitsubishi-motors-confirms-all-new-battery-electric-vehicle-will-be-sold-in-north-america-starting-summer-2026-302448012.html
+
+https://www.carscoops.com/2025/09/mitsubishi-eclipse-cross-turns-into-a-renault-based-ev-you-cant-have/
 
 Who am I?
 ---
