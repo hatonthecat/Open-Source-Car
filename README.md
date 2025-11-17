@@ -2,6 +2,8 @@ Open Source Car
 --
 A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
+https://youtu.be/xDjoVKCuxZU?si=BqVUtUzJNAkKL32W
+
 https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205
 
 https://github.com/Mohamedelrefaie/DrivAerNet
