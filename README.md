@@ -1,5 +1,13 @@
 Open Source Car
 --
+
+12-22-25
+--
+
+https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles
+
+--
+
 A directory of links and ideas on how to build an open source car. https://en.wikipedia.org/wiki/Open-source_car
 
 https://youtu.be/xDjoVKCuxZU?si=BqVUtUzJNAkKL32W
