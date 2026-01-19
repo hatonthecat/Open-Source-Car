@@ -1,6 +1,10 @@
 Open Source Car
 --
 
+1-19-2026
+--
+https://newatlas.com/automotive/aria-modular-repair-electric-prototype-ecomotive/ (NL)
+
 12-24-25
 --
 
