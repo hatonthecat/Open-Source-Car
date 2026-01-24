@@ -1,6 +1,11 @@
 Open Source Car
 --
 
+1-26-2026
+--
+
+https://www.youtube.com/watch?v=dxmxIsoV_Xo eCVTs electronically controlled CVTs
+
 1-19-2026
 --
 https://newatlas.com/automotive/aria-modular-repair-electric-prototype-ecomotive/ (NL)
