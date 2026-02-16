@@ -1,6 +1,11 @@
 Open Source Car
 --
 
+2-15-2026
+--
+
+https://www.linkedin.com/posts/dmitriizabirov_one-moving-part-the-whole-engine-is-one-share-7428588467367866369-GRF0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0
+
 1-24-2026
 --
 
