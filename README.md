@@ -7,7 +7,9 @@ https://www.linkedin.com/posts/dmitriizabirov_search-and-rescue-operations-are-b
 
 Ford apparently still licenses/sells the EcoBoost engine: https://en.wikipedia.org/wiki/Ford_EcoBoost_engine
 
-They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. Accredited Investors only...Likely only Ford sells to similar companie. 
+https://www.caranddriver.com/reviews/a15109873/2014-ford-fiesta-10l-ecoboost-test-review/ It reached 45 mpg highway, a rarity for an American company- not since the Geo Metro could you get that mileage -not including hybrids (most which were foreign made anyways). 
+
+They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. Accredited Investors only...Likely only Ford sells to similar companies. 
 
 2-15-2026
 --
