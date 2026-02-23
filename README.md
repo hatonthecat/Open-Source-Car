@@ -1,6 +1,12 @@
 Open Source Car
 --
 
+https://www.linkedin.com/posts/dmitriizabirov_search-and-rescue-operations-are-broken-share-7431195017878327297-IpvF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0
+
+Ford apparently still licenses/sells the EcoBoost engine: https://en.wikipedia.org/wiki/Ford_EcoBoost_engine
+
+They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. Accredited Investors only...Likely only Ford sells to similar companie. 
+
 2-15-2026
 --
 
