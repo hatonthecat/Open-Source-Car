@@ -3,13 +3,13 @@ Open Source Car
 
 2-23-2026
 ---
-https://www.linkedin.com/posts/dmitriizabirov_search-and-rescue-operations-are-broken-share-7431195017878327297-IpvF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0
+https://www.linkedin.com/posts/dmitriizabirov_search-and-rescue-operations-are-broken-share-7431195017878327297-IpvF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0 Accredited Investors only...Likely only Ford sells to similar companies. 
 
 Ford apparently still licenses/sells the EcoBoost engine: https://en.wikipedia.org/wiki/Ford_EcoBoost_engine
 
 https://www.caranddriver.com/reviews/a15109873/2014-ford-fiesta-10l-ecoboost-test-review/ It reached 45 mpg highway, a rarity for an American company- not since the Geo Metro could you get that mileage -not including hybrids (most which were foreign made anyways). 
 
-They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. Accredited Investors only...Likely only Ford sells to similar companies. 
+They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. 
 
 The Ford 1.0L EcoBoost is a highly awarded, compact 3-cylinder turbocharged engine (100–140+ hp) known for high power density and fuel efficiency. It features a cast-iron block for strength, a "wet belt" timing system, and integrated exhaust manifold. While efficient, it is prone to critical failures involving overheating and timing belt degradation. 
 
