@@ -11,23 +11,23 @@ https://www.caranddriver.com/reviews/a15109873/2014-ford-fiesta-10l-ecoboost-tes
 
 They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine. 
 
+
+from https://www.google.com/search?q=ford+ecoboost+engine+1.0
+
 The Ford 1.0L EcoBoost is a highly awarded, compact 3-cylinder turbocharged engine (100–140+ hp) known for high power density and fuel efficiency. It features a cast-iron block for strength, a "wet belt" timing system, and integrated exhaust manifold. While efficient, it is prone to critical failures involving overheating and timing belt degradation. 
 
-Power: Typically 100–125 PS (99–123 hp), with 140 PS (138 hp) versions in some models.
+_"Power: Typically 100–125 PS (99–123 hp), with 140 PS (138 hp) versions in some models.
 Torque: 170 N⋅m (125 lb-ft) standard, up to 200–210 N⋅m (148–155 lb-ft) with overboost.
 Design: 3-cylinder, direct-injection, turbocharged. It uses a cast-iron block for faster warm-up and an aluminum head.
 Innovation: Uses a "wet belt" (timing belt immersed in oil) designed to last 10 years or 120,000 miles.
-Applications: Widely used in Ford Focus, Fiesta, EcoSport, Mondeo, and Transit Connect. 
-Wikipedia
-Wikipedia
- +3
-Common Issues and Reliability
+Applications: Widely used in Ford Focus, Fiesta, EcoSport, Mondeo, and Transit Connect._ 
+
+_Common Issues and Reliability
 The 1.0L EcoBoost has experienced significant reliability issues, leading to investigations and recalls: 
 Wet Belt Degradation: The timing belt can break down prematurely, clogging the oil pickup screen with debris and causing catastrophic oil starvation.
 Cooling System Failure: Prone to overheating due to a small, brittle nylon degas hose that can snap, leading to rapid coolant loss.
 Oil Pump Issues: A faulty tensioner for the oil pump drive belt can cause the belt to lose teeth and fail, resulting in engine damage.
-"Eco-Boom": Nickname for total engine failure due to the above, often resulting in the need for a full engine replacement. 
-
+"Eco-Boom": Nickname for total engine failure due to the above, often resulting in the need for a full engine replacement."_ 
 
 There are other 3 cylinder engines out there, probably more reliable- https://en.wikipedia.org/wiki/Mitsubishi_3A9_engine
 
