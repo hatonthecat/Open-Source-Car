@@ -14,7 +14,7 @@ They discontinued the Ford Fiesta years ago- that 1.0 liter, 3 cylinder engine.
 
 from https://www.google.com/search?q=ford+ecoboost+engine+1.0
 
-The Ford 1.0L EcoBoost is a highly awarded, compact 3-cylinder turbocharged engine (100–140+ hp) known for high power density and fuel efficiency. It features a cast-iron block for strength, a "wet belt" timing system, and integrated exhaust manifold. While efficient, it is prone to critical failures involving overheating and timing belt degradation. 
+_The Ford 1.0L EcoBoost is a highly awarded, compact 3-cylinder turbocharged engine (100–140+ hp) known for high power density and fuel efficiency. It features a cast-iron block for strength, a "wet belt" timing system, and integrated exhaust manifold. While efficient, it is prone to critical failures involving overheating and timing belt degradation._ 
 
 _"Power: Typically 100–125 PS (99–123 hp), with 140 PS (138 hp) versions in some models.
 Torque: 170 N⋅m (125 lb-ft) standard, up to 200–210 N⋅m (148–155 lb-ft) with overboost.
