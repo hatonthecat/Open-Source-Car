@@ -4,7 +4,7 @@ Open Source Car
 3-25-26
 --
 
-Assume Vehicles can always be hacked. Cecurity researchers help prevent zero day exploits:
+Assume vehicles can always be hacked. Security researchers help prevent zero day exploits:
 
 https://hackaday.com/2026/03/25/electric-motorcycles-dont-have-to-be-security-nightmares-but-this-one-was/
 
