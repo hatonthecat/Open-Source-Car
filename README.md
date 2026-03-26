@@ -1,6 +1,13 @@
 Open Source Car
 --
 
+3-25-26
+--
+
+Assume Vehicles can always be hacked. Cecurity researchers help prevent zero day exploits:
+
+https://hackaday.com/2026/03/25/electric-motorcycles-dont-have-to-be-security-nightmares-but-this-one-was/
+
 2-23-2026
 ---
 https://www.linkedin.com/posts/dmitriizabirov_search-and-rescue-operations-are-broken-share-7431195017878327297-IpvF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0 Accredited Investors only...Likely only Ford sells to similar companies. 
