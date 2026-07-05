@@ -1,6 +1,21 @@
 Open Source Car
 --
 
+7-5-2026
+--
+
+"Our American Kei Kar, Explained"
+
+https://www.youtube.com/watch?v=vJJa9zBDa6A
+
+Open Source Hardware Truck with CERN license, made in Detroit.
+
+https://www.youtube.com/watch?v=vJJa9zBDa6A
+
+https://github.com/ThatDetroitAndy/mutiny
+
+https://mutiny.fm
+
 3-25-26
 --
 
