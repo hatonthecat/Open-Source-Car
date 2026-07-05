@@ -4,7 +4,7 @@ Open Source Car
 7-5-2026
 --
 
-"Our American Kei Kar, Explained"
+"Our American Kei Car, Explained"
 
 https://www.youtube.com/watch?v=vJJa9zBDa6A
 
