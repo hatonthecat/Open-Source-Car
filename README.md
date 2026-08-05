@@ -1,6 +1,11 @@
 Open Source Car
 --
 
+8-5-2026
+===
+
+https://supercarblondie.com/chevy-silverado-ev-car-wizard-mechanic-hoovies-garage/ what not to do in designing a car.
+
 7-5-2026
 --
 
