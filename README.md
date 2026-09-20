@@ -1,8 +1,13 @@
 Open Source Car
 --
 
+9-20-2026
+--
+
+https://futurism.com/science-energy/kenya-solar-power-ambulance-health-africa-rural
+
 8-5-2026
-===
+--
 
 https://supercarblondie.com/chevy-silverado-ev-car-wizard-mechanic-hoovies-garage/ what not to do in designing a car.
 
