@@ -317,7 +317,8 @@ In short, I'd like to put a small engine like [this](https://ct110-postie.com/sh
 
 into this:
 
-![OEM01_170819875_AR_0_MFWUKZXSCMWQ](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/cbf8c58e-9610-4a9f-ab7b-d2ac98e1499f)
+![OEM01_170819875_AR_0_MFWUKZXSCMWQ](https://github.com/hatonthecat/OpenSourceCar/assets/76194453/cbf8c58e-9610-4a9f-ab7b-d2ac98e1499f) (11-21-26: someone recently tried that with a Camaro and a Harley engine, turbocharged! https://www.thedrive.com/news/camaro-owner-claims-35-mpg-out-of-small-block-chevy-v8-by-combining-turbo-with-motorcycle-carb
+(imagine how many mpg an Elio could get, with turbo).
 
 "General Information
 
